@@ -17,7 +17,7 @@
    * 3-5. [5 해역](#3-5----5-해역)
    * 3-6. [6 해역](#3-6----6-해역)
    * 3-0. [랭작](#3-0-랭작)
-4. [계산 사이트](#4-계산-사이트)
+4. [📟 계산 사이트](#4--계산-사이트)
 - [📚 그 외](#-그-외)
 
 -----------------
@@ -336,11 +336,11 @@
 - [5-4 랭작 노하우와 팁](http://gall.dcinside.com/kancolle/3497831)
 - [전과기지 (서버별 전과 추이 등)](https://senka.com.ru/)
 
-## 4. 계산 사이트
-1. [艦これ計算機](http://kancollecalc.web.fc2.com/)
-2. [艦これ電子計算儀倉庫](http://kancolle-calc.net/index.html)
-3. [虚像工廠改二](https://dsco11.web.fc2.com/)
-4. [艦これ制空計算機B](https://kancollecalculator.web.fc2.com/)
+## 4. 📟 계산 사이트
+1. [칸코레 계산기 (艦これ計算機)](http://kancollecalc.web.fc2.com/)
+2. [칸코레 전자계산기 창고 (艦これ電子計算儀倉庫)](http://kancolle-calc.net/index.html)
+3. [허상공창改2 (虚像工廠改二)](https://dsco11.web.fc2.com/)
+4. [칸코레 제공계산기B (艦これ制空計算機B)](https://kancollecalculator.web.fc2.com/)
 
 ## 📚 그 외
 1. ~~칸코레 BGM 목록 (2016.08.12)~~
