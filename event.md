@@ -20,23 +20,23 @@
     - 팁: 화면 상에서 게이지가 격파되더라도 전투 결과가 나오기 전에 게임을 끄면 클리어 처리되지 않음
     
 ## 종합 정보
-- [트위터 번역 (2018.9.8)](http://gall.dcinside.com/kancolle/605982)
-- [확인된 전단해역 드랍 리스트](http://gall.dcinside.com/kancolle/609175)
+- [트위터 번역 (2018.9.8)](http://gall.dcinside.com/kancolle/7605982)
+- [확인된 전단해역 드랍 리스트](http://gall.dcinside.com/kancolle/7609175)
 
 ## 전단해역 (E-1 ~ E-3) 종합 정보
-- [아직 이벤 시작 안한 존버충을 위한 ㅌ1과 ㅌ2 간단정리](http://gall.dcinside.com/kancolle/607115)
-- [E-1 ~ E-3 갑 클리어 편성 (영상 있음)](http://gall.dcinside.com/kancolle/605931)
-- [[클리어 영상] 18년 가을 이벤트 E-1~E-3 제2게이지까지](http://gall.dcinside.com/kancolle/605575)
+- [아직 이벤 시작 안한 존버충을 위한 ㅌ1과 ㅌ2 간단정리](http://gall.dcinside.com/kancolle/7607115)
+- [E-1 ~ E-3 갑 클리어 편성 (영상 있음)](http://gall.dcinside.com/kancolle/7605931)
+- [[클리어 영상] 18년 가을 이벤트 E-1~E-3 제2게이지까지](http://gall.dcinside.com/kancolle/7605575)
 
 ## E-1 공략/정보 모음
-- [E-1 클리어 가이드](http://gall.dcinside.com/kancolle/606130)
+- [E-1 클리어 가이드](http://gall.dcinside.com/kancolle/7606130)
 
 ## E-2 공략/정보 모음
-- [E-2 클리어 가이드](http://gall.dcinside.com/kancolle/609554)
+- [E-2 클리어 가이드](http://gall.dcinside.com/kancolle/7609554)
 
 ## E-3 공략/정보 모음
-- [[클리어 영상]18년 가을 이벤트 E-3(갑) 제3 게이지 장비 및 편성](http://gall.dcinside.com/kancolle/605965)
-- [E-3 제3게이지 특공 정보](http://gall.dcinside.com/kancolle/608827)
+- [[클리어 영상]18년 가을 이벤트 E-3(갑) 제3 게이지 장비 및 편성](http://gall.dcinside.com/kancolle/7605965)
+- [E-3 제3게이지 특공 정보](http://gall.dcinside.com/kancolle/7608827)
 
 ---------------------
 
