@@ -1,6 +1,6 @@
 # 2018 ~~늦여름~~ 초가을 이벤트 「발묘! 연합함대, 서쪽으로!」
 
-<img src="https://vignette.wikia.nocookie.net/kancolle/images/a/a4/Early_Fall_2018_Event_Banner.gif" width="760px"/>
+![Early Fall 2018 Event Banner](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/raw/master/Assets/ev20180908.gif)
 
 - **기간: 2018.9.8 ~ (약 3주간)**
 - 전단작전 (3해역)  9월 8일 토요일 개시
