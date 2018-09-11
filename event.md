@@ -2,7 +2,7 @@
 
 ![Early Fall 2018 Event Banner](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/raw/master/Assets/ev20180908.gif)
 
-- **기간: 2018.9.8 ~ (약 3주간)**
+- **기간: 2018.09.08 ~ (약 3주간)**
 - 전단작전 (3해역)  9월 8일 토요일 개시
 - 후단작전 (2해역)  9월 12일 수요일 개시
 - 신규 칸무스: 넬슨, 키시나미, 신요, 고틀란드, (미공개)
@@ -20,7 +20,7 @@
     - 팁: 화면 상에서 게이지가 격파되더라도 전투 결과가 나오기 전에 게임을 끄면 클리어 처리되지 않음
     
 ## 종합 정보
-- [트위터 번역 (2018.9.8)](http://gall.dcinside.com/kancolle/7605982)
+- [트위터 번역 (2018.09.08)](http://gall.dcinside.com/kancolle/7605982)
 - [확인된 전단해역 드랍 리스트](http://gall.dcinside.com/kancolle/7609175)
 
 ## 전단해역 (E-1 ~ E-3) 종합 정보
