@@ -27,6 +27,7 @@
 - [아직 이벤 시작 안한 존버충을 위한 ㅌ1과 ㅌ2 간단정리](http://gall.dcinside.com/kancolle/7607115)
 - [E-1 ~ E-3 갑 클리어 편성 (영상 있음)](http://gall.dcinside.com/kancolle/7605931)
 - [[클리어 영상] 18년 가을 이벤트 E-1~E-3 제2게이지까지](http://gall.dcinside.com/kancolle/7605575)
+- [「발묘! 연합함대, 서쪽으로!」 E-1~3 전단작전 통합공략](http://gall.dcinside.com/kancolle/7613479)
 
 ## E-1 공략/정보 모음
 - [E-1 클리어 가이드](http://gall.dcinside.com/kancolle/7606130)
@@ -36,7 +37,7 @@
 
 ## E-3 공략/정보 모음
 - [[클리어 영상]18년 가을 이벤트 E-3(갑) 제3 게이지 장비 및 편성](http://gall.dcinside.com/kancolle/7605965)
-- [E-3 제3게이지 특공 정보](http://gall.dcinside.com/kancolle/7608827)
+- E-3 제3게이지 특공 정보](http://gall.dcinside.com/kancolle/7608827) ※ 99함폭/97함공 보정 없음
 
 ---------------------
 
