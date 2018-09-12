@@ -37,7 +37,7 @@
 
 ## E-3 공략/정보 모음
 - [[클리어 영상]18년 가을 이벤트 E-3(갑) 제3 게이지 장비 및 편성](http://gall.dcinside.com/kancolle/7605965)
-- E-3 제3게이지 특공 정보](http://gall.dcinside.com/kancolle/7608827) ※ 99함폭/97함공 보정 없음
+- [E-3 제3게이지 특공 정보](http://gall.dcinside.com/kancolle/7608827) ※ 99함폭/97함공 보정 없음
 
 ---------------------
 
