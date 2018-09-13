@@ -23,7 +23,7 @@
 - [트위터 번역 (2018.09.08)](http://gall.dcinside.com/kancolle/7605982)
 - [확인된 전단해역 드랍 리스트](http://gall.dcinside.com/kancolle/7609175)
 
-## 전단해역 (E-1 ~ E-3) 종합 정보
+## 전 해역 (E-1~E-5) 종합 정보
 - [아직 이벤 시작 안한 존버충을 위한 ㅌ1과 ㅌ2 간단정리](http://gall.dcinside.com/kancolle/7607115)
 - [E-1 ~ E-3 갑 클리어 편성 (영상 있음)](http://gall.dcinside.com/kancolle/7605931)
 - [[클리어 영상] 18년 가을 이벤트 E-1~E-3 제2게이지까지](http://gall.dcinside.com/kancolle/7605575)
