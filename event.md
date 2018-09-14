@@ -23,10 +23,10 @@
 - [트위터 번역 (2018.09.08)](http://gall.dcinside.com/kancolle/7605982)
 - [확인된 전단해역 드랍 리스트](http://gall.dcinside.com/kancolle/7609175)
 
-## 전 해역 (E-1~E-5) 종합 정보
+## 전 해역 (E-1 ~ E-5) 종합 정보
 - [아직 이벤 시작 안한 존버충을 위한 ㅌ1과 ㅌ2 간단정리](http://gall.dcinside.com/kancolle/7607115)
 - [E-1 ~ E-3 갑 클리어 편성 (영상 있음)](http://gall.dcinside.com/kancolle/7605931)
-- [[클리어 영상] 18년 가을 이벤트 E-1~E-3 제2게이지까지](http://gall.dcinside.com/kancolle/7605575)
+- [\[클리어 영상\] 18년 가을 이벤트 E-1~E-3 제2게이지까지](http://gall.dcinside.com/kancolle/7605575)
 - [「발묘! 연합함대, 서쪽으로!」 E-1~3 전단작전 통합공략](http://gall.dcinside.com/kancolle/7613479)
 - [E1 갑~ E4 갑 클리어 편성](http://gall.dcinside.com/kancolle/7623655)
 
@@ -37,13 +37,15 @@
 - [E-2 클리어 가이드](http://gall.dcinside.com/kancolle/7609554)
 
 ## E-3 공략/정보 모음
-- [[클리어 영상]18년 가을 이벤트 E-3(갑) 제3 게이지 장비 및 편성](http://gall.dcinside.com/kancolle/7605965)
+- [\[클리어 영상\]18년 가을 이벤트 E-3(갑) 제3 게이지 장비 및 편성](http://gall.dcinside.com/kancolle/7605965)
 - [E-3 제3게이지 특공 정보](http://gall.dcinside.com/kancolle/7608827) ※ 99함폭/97함공 보정 없음
 
 ## E-4 공략/정보 모음
 - [E4갑 클리어 간증](http://gall.dcinside.com/kancolle/7620656)
 - [공략) E-4 고틀랜드 병 정파밍 최단 편성](http://gall.dcinside.com/kancolle/7619631) (수송연합)
-- E-4 수송 단일 편성 파밍 [예시1](http://gall.dcinside.com/kancolle/7622108) [예시2](http://gall.dcinside.com/kancolle&no=7623504)
+- E-4 수송 단일 편성 파밍
+  * [예시1](http://gall.dcinside.com/kancolle/7622108)
+  * [예시2](http://gall.dcinside.com/kancolle&no=7623504)
 ---------------------
 
 ## 해역 보상 정리
