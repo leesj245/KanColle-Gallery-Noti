@@ -22,6 +22,7 @@
 ## 종합 정보
 - [트위터 번역 (2018.09.08)](http://gall.dcinside.com/kancolle/7605982)
 - [확인된 전단해역 드랍 리스트](http://gall.dcinside.com/kancolle/7609175)
+- [딱지 관리 템플릿](http://gall.dcinside.com/kancolle/7627783)
 
 ## 전 해역 (E-1 ~ E-5) 종합 정보
 - [아직 이벤 시작 안한 존버충을 위한 ㅌ1과 ㅌ2 간단정리](http://gall.dcinside.com/kancolle/7607115)
@@ -29,6 +30,8 @@
 - [\[클리어 영상\] 18년 가을 이벤트 E-1~E-3 제2게이지까지](http://gall.dcinside.com/kancolle/7605575)
 - [「발묘! 연합함대, 서쪽으로!」 E-1~3 전단작전 통합공략](http://gall.dcinside.com/kancolle/7613479)
 - [E1 갑~ E4 갑 클리어 편성](http://gall.dcinside.com/kancolle/7623655)
+- [이벤트 공략 모음](http://gall.dcinside.com/kancolle/7635120)
+- [E-2~E-5 기지항공대 항속표](http://gall.dcinside.com/kancolle/7620599)
 
 ## E-1 공략/정보 모음
 - [E-1 클리어 가이드](http://gall.dcinside.com/kancolle/7606130)
@@ -39,13 +42,28 @@
 ## E-3 공략/정보 모음
 - [\[클리어 영상\]18년 가을 이벤트 E-3(갑) 제3 게이지 장비 및 편성](http://gall.dcinside.com/kancolle/7605965)
 - [E-3 제3게이지 특공 정보](http://gall.dcinside.com/kancolle/7608827) ※ 99함폭/97함공 보정 없음
+- [e-3 3게이지 기항대 세팅 꿀팁](http://gall.dcinside.com/kancolle/7619071)
+- [뇌만 있으면 깰 수 있는 ㅌ3 간단정리](http://gall.dcinside.com/kancolle/7613753)
 
 ## E-4 공략/정보 모음
 - [E4갑 클리어 간증](http://gall.dcinside.com/kancolle/7620656)
 - [공략) E-4 고틀랜드 병 정파밍 최단 편성](http://gall.dcinside.com/kancolle/7619631) (수송연합)
 - E-4 수송 단일 편성 파밍
   * [예시1](http://gall.dcinside.com/kancolle/7622108)
-  * [예시2](http://gall.dcinside.com/kancolle&no=7623504)
+  * [예시2](http://gall.dcinside.com/kancolle/7623504)
+- [발묘! 연합함대, 서쪽으로! E-4 가이드](http://gall.dcinside.com/kancolle/7622685)
+- [ㅌ4 수송 최단/편성 간단한 정보](http://gall.dcinside.com/kancolle/7624511)
+  
+  
+## E-5 공략/정보 모음
+- [딱지 설명](http://gall.dcinside.com/kancolle/7631715)
+- [E-5 갑 보스방 여는 방법](http://gall.dcinside.com/kancolle/7627560)
+- [E-5 1게이지 병/정 파밍 편성](http://gall.dcinside.com/kancolle/7625225)
+- [ㅌ5갑 내가 쓴 기믹편성](http://gall.dcinside.com/kancolle/7634843)
+- [E-5 방깎 수상함대 A승 편성](http://gall.dcinside.com/kancolle/7631092)
+- [ㅌ5갑 3차 게이지 기동부대 최단루트 공략](http://gall.dcinside.com/kancolle/7632890)
+- [발묘! 연합함대, 서쪽으로! E-5 갑 사용 편성](http://gall.dcinside.com/kancolle/7635785)
+
 ---------------------
 
 ## 해역 보상 정리
