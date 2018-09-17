@@ -54,7 +54,7 @@
   - poi-statistics ([https://db.kcwiki.org/drop/](https://db.kcwiki.org/drop/))
 	
 #### 진행 중 / 예정된 이벤트
-  * [2018 ~~늦여름~~ 초가을 이벤트 **「발묘! 연합함대, 서쪽으로!」**](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/event.md)
+  * [2018 ~~늦여름~~ 초가을 이벤트 **「발묘! 연합함대, 서쪽으로!」**](/event.md)
     - 전단작전 (3해역) 9월 8일 토요일, 후단작전 (2해역) 9월 12일 수요일 개시
     - 이벤트 기간: 2018.9.8 ~ 2018.??.?? (3주+α)
     - 신규 칸무스: 넬슨, 키시나미, 신요, 고틀란드, ???
