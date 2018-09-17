@@ -41,7 +41,6 @@
 
 ## E-3 공략/정보 모음
 - [\[클리어 영상\]18년 가을 이벤트 E-3(갑) 제3 게이지 장비 및 편성](http://gall.dcinside.com/kancolle/7605965)
-- [E-3 제3게이지 특공 정보](http://gall.dcinside.com/kancolle/7608827) ※ 99함폭/97함공 보정 없음
 - [e-3 3게이지 기항대 세팅 꿀팁](http://gall.dcinside.com/kancolle/7619071)
 - [뇌만 있으면 깰 수 있는 ㅌ3 간단정리](http://gall.dcinside.com/kancolle/7613753)
 
