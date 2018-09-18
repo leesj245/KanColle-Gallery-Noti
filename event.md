@@ -1,6 +1,6 @@
 # 2018 ~~늦여름~~ 초가을 이벤트 「발묘! 연합함대, 서쪽으로!」
 
-![Early Fall 2018 Event Banner](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/raw/master/Assets/ev20180908.gif)
+![Early Fall 2018 Event Banner](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/raw/master/Assets/events/20180908/banner.gif)
 
 - **기간: 2018.09.08 ~ (약 3주간)**
 - 전단작전 (3해역)  9월 8일 토요일 개시
@@ -18,7 +18,7 @@
   - **한 번 클리어한 해역의 경우 난이도를 변경할 수 없음**
     - 난이도를 낮추어서 파밍하는 경우(예: 병파밍) 실수로 게이지를 격파하지 않도록 유의
     - 팁: 화면 상에서 게이지가 격파되더라도 전투 결과가 나오기 전에 게임을 끄면 클리어 처리되지 않음
-    
+
 ## 종합 정보
 - [트위터 번역 (2018.09.08)](http://gall.dcinside.com/kancolle/7605982)
 - [확인된 전단해역 드랍 리스트](http://gall.dcinside.com/kancolle/7609175)
@@ -52,8 +52,8 @@
   * [예시2](http://gall.dcinside.com/kancolle/7623504)
 - [발묘! 연합함대, 서쪽으로! E-4 가이드](http://gall.dcinside.com/kancolle/7622685)
 - [ㅌ4 수송 최단/편성 간단한 정보](http://gall.dcinside.com/kancolle/7624511)
-  
-  
+
+
 ## E-5 공략/정보 모음
 - [딱지 설명](http://gall.dcinside.com/kancolle/7631715)
 - [E-5 갑 보스방 여는 방법](http://gall.dcinside.com/kancolle/7627560)
