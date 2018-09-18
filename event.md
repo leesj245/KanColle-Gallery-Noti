@@ -1,6 +1,6 @@
 # 2018 ~~늦여름~~ 초가을 이벤트 「발묘! 연합함대, 서쪽으로!」
 
-![Early Fall 2018 Event Banner](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/raw/master/Assets/events/20180908/banner.gif)
+![Early Fall 2018 Event Banner](/Assets/events/20180908/banner.gif)
 
 - **기간: 2018.09.08 ~ (약 3주간)**
 - 전단작전 (3해역)  9월 8일 토요일 개시
@@ -23,6 +23,15 @@
 - [트위터 번역 (2018.09.08)](http://gall.dcinside.com/kancolle/7605982)
 - [확인된 전단해역 드랍 리스트](http://gall.dcinside.com/kancolle/7609175)
 - [딱지 관리 템플릿](http://gall.dcinside.com/kancolle/7627783)
+
+| 딱지 | 출격 가능 해역 | 비고 |
+| --- | ------------- | ---- |
+| ![E-1](/Assets/events/20180908/e1.png)<br>경비부대 | E-1 | |
+| ![E-2](/Assets/events/20180908/e2.png)<br>해협파견부대 | E-2 | |
+| ![E-3](/Assets/events/20180908/e3.png)<br>서방작전부대 | E-3 | |
+| ![E-4](/Assets/events/20180908/e4.png)<br>유럽특무부대 | E-4 | |
+| ![E-5 A](/Assets/events/20180908/e5-1.png)<br>Force H | E-5<br>공모기동부대 | 갑(甲) 난이도에서만 출격 제한 |
+| ![E-5 B](/Assets/events/20180908/e5-2.png)<br>라인연습부대 | E-5<br>수상타격부대 | 갑(甲) 난이도에서만 출격 제한 |
 
 ## 전 해역 (E-1 ~ E-5) 종합 정보
 - [아직 이벤 시작 안한 존버충을 위한 ㅌ1과 ㅌ2 간단정리](http://gall.dcinside.com/kancolle/7607115)
