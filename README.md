@@ -1,4 +1,4 @@
-![article.png](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/raw/master/Assets/article.png)
+![article.png](Assets/article.png)
 
 ## 📃 목차
 - [📦 업데이트 정리](#-업데이트-정리)
@@ -19,7 +19,7 @@
    * 3-6. [6 해역](#3-6----6-해역)
    * 3-0. [랭작](#3-0-랭작)
 4. [📟 계산 사이트](#4--계산-사이트)
-- [📚 그 외](#-그-외)
+5. [📚 그 외](#-그-외)
 
 -----------------
 
@@ -52,13 +52,13 @@
 #### 드롭 통계
   - KanColle OpenDB ([http://opendb.swaytwig.com/](http://opendb.swaytwig.com/))
   - poi-statistics ([https://db.kcwiki.org/drop/](https://db.kcwiki.org/drop/))
-	
+
 #### 진행 중 / 예정된 이벤트
   * [2018 ~~늦여름~~ 초가을 이벤트 **「발묘! 연합함대, 서쪽으로!」**](event.md)
     - 전단작전 (3해역) 9월 8일 토요일, 후단작전 (2해역) 9월 12일 수요일 개시
     - 이벤트 기간: 2018.09.08 ~ 2018.10.05
     - 신규 칸무스: 넬슨, 키시나미, 신요, 고틀란드, 마에스트랄레
-	
+
 #### 지난 이벤트
   * 2018 봄 「먹을 것 미니이벤트」 [①](http://gall.dcinside.com/kancolle/7230463), [②](http://gall.dcinside.com/kancolle/7235238), [③](http://gall.dcinside.com/kancolle/7237439)
   * 2018 겨울 「첩호결전! 요격, 레이테 해전 (후편)」 [①](http://gall.dcinside.com/kancolle/6947645), [②](http://gall.dcinside.com/kancolle/6983426), [③](http://gall.dcinside.com/kancolle/6933050)
@@ -78,7 +78,7 @@
   * [2014 여름 「AL작전/MI작전」](http://gall.dcinside.com/kancolle/665972)
   * [2014 봄 「색적기, 이함개시!」](http://gall.dcinside.com/kancolle/297595)
 
-  
+
 ## 1. 🔰 입문
 - [크롬으로 아주쉽게 착임하기](http://gall.dcinside.com/kancolle/4726885)
 - [칸코레 기본 메뉴 설명](http://gall.dcinside.com/kancolle/1009892)
@@ -107,7 +107,7 @@
    4. [74식 필터기능 설명](http://gall.dcinside.com/kancolle/2990330)
    5. [74식과 엑셀로 총 경험치+함종별 경험치 계산하기](http://gall.dcinside.com/kancolle/6316535)
    6. [**74식 한글판 배포 사이트**](http://thelokis.egloos.com/)
-   
+
 3. **KC3改** (카이바, 크롬 확장 프로그램)
    1. [KC3의 설치 및 사용방법](http://gall.dcinside.com/kancolle/3441903)
    2. [KC3 전략실의 기능 설명](http://gall.dcinside.com/kancolle/4181894)
@@ -138,121 +138,121 @@
 - [주간 포격전의 명중률과 회피율](http://gall.dcinside.com/kancolle/6259835)
 
 1. 함선
-  1. ~~편성, 출격퀘 및 2차 개장을 고려하여 키울만한 칸무스들 정리~~
-  2. [뉴비 제독들을 위한 구축함 성능 리스트](http://gall.dcinside.com/kancolle/4187193)
-  3. [2차 개장 칸무스 현황 리스트](http://gall.dcinside.com/kancolle/4296634)
-  4. [**설계도 필요 함선 및 입수 방법** (18.07.12)](http://gall.dcinside.com/kancolle/7412403)
-  5. [**선제 대잠** 가능 레벨 리스트 (18.07.24)](http://gall.dcinside.com/kancolle/7446986)
-  6. [키라/피로도의 설명과 이에 따른 각종 효과](http://gall.dcinside.com/kancolle/6275509)
-  7. [급양함 마미야/이라코의 키라효과](http://gall.dcinside.com/kancolle/6277274)
-  8. [굉침 스토퍼와 4n, 4n-1](http://gall.dcinside.com/kancolle/6325653)
-  9. [해방함의 특성에 대해서](http://gall.dcinside.com/kancolle/6401459)
+   1. ~~편성, 출격퀘 및 2차 개장을 고려하여 키울만한 칸무스들 정리~~
+   2. [뉴비 제독들을 위한 구축함 성능 리스트](http://gall.dcinside.com/kancolle/4187193)
+   3. [2차 개장 칸무스 현황 리스트](http://gall.dcinside.com/kancolle/4296634)
+   4. [**설계도 필요 함선 및 입수 방법** (18.07.12)](http://gall.dcinside.com/kancolle/7412403)
+   5. [**선제 대잠** 가능 레벨 리스트 (18.07.24)](http://gall.dcinside.com/kancolle/7446986)
+   6. [키라/피로도의 설명과 이에 따른 각종 효과](http://gall.dcinside.com/kancolle/6275509)
+   7. [급양함 마미야/이라코의 키라효과](http://gall.dcinside.com/kancolle/6277274)
+   8. [굉침 스토퍼와 4n, 4n-1](http://gall.dcinside.com/kancolle/6325653)
+   9. [해방함의 특성에 대해서](http://gall.dcinside.com/kancolle/6401459)
 
 2. 장비 세팅
-  1. [장비 세팅 개요](http://gall.dcinside.com/kancolle/2110709)
-  2. [주/야간 컷인 세팅 정리](http://gall.dcinside.com/kancolle/1086440)
-    - [컷인별 확률표 (18.03.11)](http://gall.dcinside.com/kancolle/6989018), [엑셀 파일](http://gall.dcinside.com/kancolle/6996270)
-    - [야간 컷인 확률표 (17.08.06)](http://gall.dcinside.com/kancolle/6076413)
-    - [주간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/728168)
-    - [야간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/538385)
+   1. [장비 세팅 개요](http://gall.dcinside.com/kancolle/2110709)
+   2. [주/야간 컷인 세팅 정리](http://gall.dcinside.com/kancolle/1086440)
+      - [컷인별 확률표 (18.03.11)](http://gall.dcinside.com/kancolle/6989018), [엑셀 파일](http://gall.dcinside.com/kancolle/6996270)
+      - [야간 컷인 확률표 (17.08.06)](http://gall.dcinside.com/kancolle/6076413)
+      - [주간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/728168)
+      - [야간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/538385)
       - [구축함 전용 컷인](http://gall.dcinside.com/kancolle/6465368)
-  3. [전함의 탄착관측사격 데미지 기대값 비교](http://gall.dcinside.com/kancolle/327377)
-    - [탄착 관측 사격 확률](http://gall.dcinside.com/kancolle/6628988)
-  4. [주간전 화력캡 잡담](http://gall.dcinside.com/kancolle/6257500)
-  5. [중순양함 장비세팅 정리](http://gall.dcinside.com/kancolle/3568714)
-  6. [주간전 항모컷인(전폭연합)에 대해](http://gall.dcinside.com/kancolle/6625768)
-  7. [정규/경항모 야전 화력 계산](http://gall.dcinside.com/kancolle/6317284)
-  8. [야전공모의 야전 화력 계산](http://gall.dcinside.com/kancolle/6378909)
-    - [항모 야간컷인 화력 추정식](http://gall.dcinside.com/kancolle/6937635)
-  9. [구축함주포의 피트보정과 운용](http://gall.dcinside.com/kancolle/7394815)
-  10. [대육상 공격 특공배율에 대해서](http://gall.dcinside.com/kancolle/7407925)
-   
+   3. [전함의 탄착관측사격 데미지 기대값 비교](http://gall.dcinside.com/kancolle/327377)
+      - [탄착 관측 사격 확률](http://gall.dcinside.com/kancolle/6628988)
+   4. [주간전 화력캡 잡담](http://gall.dcinside.com/kancolle/6257500)
+   5. [중순양함 장비세팅 정리](http://gall.dcinside.com/kancolle/3568714)
+   6. [주간전 항모컷인(전폭연합)에 대해](http://gall.dcinside.com/kancolle/6625768)
+   7. [정규/경항모 야전 화력 계산](http://gall.dcinside.com/kancolle/6317284)
+   8. [야전공모의 야전 화력 계산](http://gall.dcinside.com/kancolle/6378909)
+      - [항모 야간컷인 화력 추정식](http://gall.dcinside.com/kancolle/6937635)
+   9. [구축함주포의 피트보정과 운용](http://gall.dcinside.com/kancolle/7394815)
+   10. [대육상 공격 특공배율에 대해서](http://gall.dcinside.com/kancolle/7407925)
+
 3. 대공, 함재기
-  1. [**대공**(함대방공, 대공컷인)에 대해서](http://gall.dcinside.com/kancolle/4136381)
-  2. [비율격추, 고정격추](http://gall.dcinside.com/kancolle/7080307)
-  3. [대공병장의 개수효과: 가중대공치 및 함대방공보너스](http://gall.dcinside.com/kancolle/7081704)
-  4. [대공컷인 종류별 발동조건 및 보너스 (18.08.02)](http://gall.dcinside.com/kancolle/7474713)
-  5. [함재기 배치 개론](http://gall.dcinside.com/kancolle/2581619)
-  6. [함상공격기, 함상폭격기 성능표](http://gall.dcinside.com/kancolle/6884383)
-  7. [**항공전 / 기지항공대 개괄** (16.08.30)](http://gall.dcinside.com/kancolle/4664392)
+   1. [**대공**(함대방공, 대공컷인)에 대해서](http://gall.dcinside.com/kancolle/4136381)
+   2. [비율격추, 고정격추](http://gall.dcinside.com/kancolle/7080307)
+   3. [대공병장의 개수효과: 가중대공치 및 함대방공보너스](http://gall.dcinside.com/kancolle/7081704)
+   4. [대공컷인 종류별 발동조건 및 보너스 (18.08.02)](http://gall.dcinside.com/kancolle/7474713)
+   5. [함재기 배치 개론](http://gall.dcinside.com/kancolle/2581619)
+   6. [함상공격기, 함상폭격기 성능표](http://gall.dcinside.com/kancolle/6884383)
+   7. [**항공전 / 기지항공대 개괄** (16.08.30)](http://gall.dcinside.com/kancolle/4664392)
 
 4. 기지항공대
-  1. [기지항공대 소개 (18.02.12)](http://gall.dcinside.com/kancolle/6854289)
-  2. [기지항공대 제공권 계산식 (+정찰기 효과)](http://gall.dcinside.com/kancolle/4631140)
-    - [기지항공대용 전투기(국지전투기, 육상전투기) 소개](http://gall.dcinside.com/kancolle/5671456)
-      - [기지항공대용 전투기 스펙 정리 (18.02.28)](http://gall.dcinside.com/kancolle/6936222)
-    - [기지항공대 제공치+행동반경 계산기](http://gall.dcinside.com/kancolle/4989097)
-    - [기지항공대 출격/방공 제공치 조견표 (18.02.28)](http://gall.dcinside.com/kancolle/6936293)
-  3. [기지항공대 출격/배치 소비 자원 조견표 (17.12.14)](http://gall.dcinside.com/kancolle/6655815)
-  4. [기지항공대의 공격기 성능 정리](http://gall.dcinside.com/kancolle/6256524)
-  5. [기지항공대의 피격추 정리](http://gall.dcinside.com/kancolle/6256790)
-  6. [국지전투기 스펙 정리](http://gall.dcinside.com/kancolle/6163795)
-  7. [공습시의 각 기지항공대의 상황와 피해의 관계](http://gall.dcinside.com/kancolle/6468543)
+   1. [기지항공대 소개 (18.02.12)](http://gall.dcinside.com/kancolle/6854289)
+   2. [기지항공대 제공권 계산식 (+정찰기 효과)](http://gall.dcinside.com/kancolle/4631140)
+      - [기지항공대용 전투기(국지전투기, 육상전투기) 소개](http://gall.dcinside.com/kancolle/5671456)
+        - [기지항공대용 전투기 스펙 정리 (18.02.28)](http://gall.dcinside.com/kancolle/6936222)
+      - [기지항공대 제공치+행동반경 계산기](http://gall.dcinside.com/kancolle/4989097)
+      - [기지항공대 출격/방공 제공치 조견표 (18.02.28)](http://gall.dcinside.com/kancolle/6936293)
+   3. [기지항공대 출격/배치 소비 자원 조견표 (17.12.14)](http://gall.dcinside.com/kancolle/6655815)
+   4. [기지항공대의 공격기 성능 정리](http://gall.dcinside.com/kancolle/6256524)
+   5. [기지항공대의 피격추 정리](http://gall.dcinside.com/kancolle/6256790)
+   6. [국지전투기 스펙 정리](http://gall.dcinside.com/kancolle/6163795)
+   7. [공습시의 각 기지항공대의 상황와 피해의 관계](http://gall.dcinside.com/kancolle/6468543)
 
 5. 지원함대
-  1. [(구) 지원함대 개요](http://gall.dcinside.com/kancolle/274163)
-  2. [(구) 지원함대 (16.08.22)](http://gall.dcinside.com/kancolle/4664389)
-  3. [**최신 지원함대 정보** (17.12)](http://gall.dcinside.com/kancolle/6646071)
-    - 2017년 가을 이벤트부터 항공지원 및 포격지원 조건이 변경됨 (1번 및 2번 읽을 때 참고)
-    - [지원 발생 확률](http://gall.dcinside.com/kancolle/6571083)
-    - [대잠 지원 초계 관련](http://gall.dcinside.com/kancolle/6637210)
-  4. [지원함대에서의 포격화력 일람, 반항전 캡 조정 예](http://gall.dcinside.com/kancolle/6278428)
+   1. [(구) 지원함대 개요](http://gall.dcinside.com/kancolle/274163)
+   2. [(구) 지원함대 (16.08.22)](http://gall.dcinside.com/kancolle/4664389)
+   3. [**최신 지원함대 정보** (17.12)](http://gall.dcinside.com/kancolle/6646071)
+      - 2017년 가을 이벤트부터 항공지원 및 포격지원 조건이 변경됨 (1번 및 2번 읽을 때 참고)
+      - [지원 발생 확률](http://gall.dcinside.com/kancolle/6571083)
+      - [대잠 지원 초계 관련](http://gall.dcinside.com/kancolle/6637210)
+   4. [지원함대에서의 포격화력 일람, 반항전 캡 조정 예](http://gall.dcinside.com/kancolle/6278428)
 
-6. ![연습](https://user-images.githubusercontent.com/20940566/30250043-55743e0e-9683-11e7-9a8c-fd7431bf7b3b.png) 연습전
-  1. [**연습전 경험치 계산법**](http://gall.dcinside.com/kancolle/4803859)
-    - [연습전 경험치 계산기](http://swaytwig.com/#calc)
+6. ![연습](Assets/tab-practice.png) 연습전
+   1. [**연습전 경험치 계산법**](http://gall.dcinside.com/kancolle/4803859)
+      - [연습전 경험치 계산기](http://swaytwig.com/#calc)
 
 7. 계산과 검증
-  1. [~~명중(**피트**)~~, 회피, 컷인확률 (16.08.29)](http://gall.dcinside.com/kancolle/4664388)
-    - [어뢰 컷인 계산기](http://gall.dcinside.com/kancolle/4654754)
-  2. [전함/순양함의 피트 포와 과적에 대해](http://gall.dcinside.com/kancolle/6860296)
-    - [전함의 대구경주포 피트보정에 대해서](http://gall.dcinside.com/kancolle/6989269)
-    - [전함 피트포의 보충](http://gall.dcinside.com/kancolle/6989372)
-      - [순양함주포 피트 보정](http://gall.dcinside.com/kancolle/6762174)
-  3. [**데미지** 계산법 (16.09.03)](http://gall.dcinside.com/kancolle/4664391)
-    - [대잠공격계산의 기본과 계산식 등](http://gall.dcinside.com/kancolle/6509761)
-      - [대잠 시너지 계산 관련](http://gall.dcinside.com/kancolle/7339275)
-  4. [**색적**, 기타 검증 (16.08.29)](http://gall.dcinside.com/kancolle/4664387)
-  5. **운작**
-    - [마루유 갯수별 운 상승치 기대값 계산](http://gall.dcinside.com/kancolle/4573887)
-    - [운작 우선순위, 추천 칸무스](http://gall.dcinside.com/kancolle/5444115)
-      - [운작에 의한 명중률, 회피율의 상승](http://gall.dcinside.com/kancolle/7021864)
+   1. [~~명중(**피트**)~~, 회피, 컷인확률 (16.08.29)](http://gall.dcinside.com/kancolle/4664388)
+      - [어뢰 컷인 계산기](http://gall.dcinside.com/kancolle/4654754)
+   2. [전함/순양함의 피트 포와 과적에 대해](http://gall.dcinside.com/kancolle/6860296)
+      - [전함의 대구경주포 피트보정에 대해서](http://gall.dcinside.com/kancolle/6989269)
+      - [전함 피트포의 보충](http://gall.dcinside.com/kancolle/6989372)
+       - [순양함주포 피트 보정](http://gall.dcinside.com/kancolle/6762174)
+   3. [**데미지** 계산법 (16.09.03)](http://gall.dcinside.com/kancolle/4664391)
+      - [대잠공격계산의 기본과 계산식 등](http://gall.dcinside.com/kancolle/6509761)
+       - [대잠 시너지 계산 관련](http://gall.dcinside.com/kancolle/7339275)
+   4. [**색적**, 기타 검증 (16.08.29)](http://gall.dcinside.com/kancolle/4664387)
+   5. **운작**
+      - [마루유 갯수별 운 상승치 기대값 계산](http://gall.dcinside.com/kancolle/4573887)
+      - [운작 우선순위, 추천 칸무스](http://gall.dcinside.com/kancolle/5444115)
+        - [운작에 의한 명중률, 회피율의 상승](http://gall.dcinside.com/kancolle/7021864)
 
 #### 2-2. 🛠 강화 : 개발, 건조, 개수
 1. 개발
-  1. [개발에 대해 알아보자](http://gall.dcinside.com/kancolle/78488)
-  2. [뉴비들을 위한 알기 쉬운 개발 레시피](http://gall.dcinside.com/kancolle/2022132)
-  3. [함종별로 직접 계산해본 전탐레시피 확률](http://gall.dcinside.com/kancolle/3610924)
+   1. [개발에 대해 알아보자](http://gall.dcinside.com/kancolle/78488)
+   2. [뉴비들을 위한 알기 쉬운 개발 레시피](http://gall.dcinside.com/kancolle/2022132)
+   3. [함종별로 직접 계산해본 전탐레시피 확률](http://gall.dcinside.com/kancolle/3610924)
 
 2. 건조
-  1. [대형함 추천 레시피](http://gall.dcinside.com/kancolle/1152236)
+   1. [대형함 추천 레시피](http://gall.dcinside.com/kancolle/1152236)
 
 3. 근대화개수/개수공창
-  1. [근대화개수 개요](http://gall.dcinside.com/kancolle/76024)
-  2. [개수공창 개요 (16.08.22)](http://gall.dcinside.com/kancolle/4664390)
-  3. [**개수공창 목록**](http://akashi-list.me/)
-  4. [4연장/5연장 어뢰 개수는 어디까지 해야할까?](http://gall.dcinside.com/kancolle/2084589)
-  5. [대 기지형 장비의 개수단계별 화력 변화값](http://gall.dcinside.com/kancolle/4123961)
-  6. [뉴비를 위한 개수 추천 리스트](http://gall.dcinside.com/kancolle/6289097)
+   1. [근대화개수 개요](http://gall.dcinside.com/kancolle/76024)
+   2. [개수공창 개요 (16.08.22)](http://gall.dcinside.com/kancolle/4664390)
+   3. [**개수공창 목록**](http://akashi-list.me/)
+   4. [4연장/5연장 어뢰 개수는 어디까지 해야할까?](http://gall.dcinside.com/kancolle/2084589)
+   5. [대 기지형 장비의 개수단계별 화력 변화값](http://gall.dcinside.com/kancolle/4123961)
+   6. [뉴비를 위한 개수 추천 리스트](http://gall.dcinside.com/kancolle/6289097)
 
-#### 2-3. 📓 업무 : ![원정](https://user-images.githubusercontent.com/20940566/30250040-4924bbce-9683-11e7-96ea-5b830fe08392.png) 원정, 임무
+#### 2-3. 📓 업무 : ![원정](Assets/tab-expedition.png) 원정, 임무
 1. 원정
-  1. [원정 목록](http://gall.dcinside.com/kancolle/3216451)
-  2. [원정 해금 조건표](http://gall.dcinside.com/kancolle/589313)
-  3. 대발계 장비
-    1. [대발계 장비에 의한 원정 추가자원 공식](http://gall.dcinside.com/kancolle/4857830)
-    2. [대발계 장비에 의한 원정 추가자원 쉽게 계산하기](http://gall.dcinside.com/kancolle/5611120)
-    3. [대발동정 계산기](http://swaytwig.com/#calc)
+   1. [원정 목록](http://gall.dcinside.com/kancolle/3216451)
+   2. [원정 해금 조건표](http://gall.dcinside.com/kancolle/589313)
+   3. 대발계 장비
+      1. [대발계 장비에 의한 원정 추가자원 공식](http://gall.dcinside.com/kancolle/4857830)
+      2. [대발계 장비에 의한 원정 추가자원 쉽게 계산하기](http://gall.dcinside.com/kancolle/5611120)
+      3. [대발동정 계산기](http://swaytwig.com/#calc)
 
 2. 임무/퀘스트
-  1. [퀘스트 메뉴 개요](http://gall.dcinside.com/kancolle/86224)
-  2. [칸코레 **임무 통합본**](http://gall.dcinside.com/kancolle/6253636)
-  3. [신규 기종전환 퀘스트 (월간 포함)](http://gall.dcinside.com/kancolle/2975989)
-  4. [출격퀘 일일,주간,월퀘 한장정리](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/quest_tree.md)
-  5. [칸코레 임무 정리 사이트 (일문)](https://ooyodo-quest.net/)
-  6. [칸코레 임무 트리 (영문)](https://www.kahr-noss.com/OoyodoQuestTracker.html)
+   1. [퀘스트 메뉴 개요](http://gall.dcinside.com/kancolle/86224)
+   2. [칸코레 **임무 통합본**](http://gall.dcinside.com/kancolle/6253636)
+   3. [신규 기종전환 퀘스트 (월간 포함)](http://gall.dcinside.com/kancolle/2975989)
+   4. [출격퀘 일일,주간,월퀘 한장정리](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/quest_tree.md)
+   5. [칸코레 임무 정리 사이트 (일문)](https://ooyodo-quest.net/)
+   6. [칸코레 임무 트리 (영문)](https://www.kahr-noss.com/OoyodoQuestTracker.html)
 
-## 3. ![출격](https://user-images.githubusercontent.com/20940566/30250044-5d9af528-9683-11e7-81e9-91c0d4badef7.png) 출격 (출격 / 레벨링 / 랭작)
+## 3. ![출격](Assets/tab-sortie.png) 출격 (출격 / 레벨링 / 랭작)
 
 #### 2.0 신규 해역 관련 정보
 - [출격 해역명, 작전명, 작전내용](http://gall.dcinside.com/kancolle/7539631)
@@ -363,7 +363,7 @@
 5. [2차대전 침몰한 일본함 위치 구글맵](http://gall.dcinside.com/kancolle/6675470)
 6. [깡비타 시스템 해석 문서 (일어)](https://docs.google.com/document/d/1tqYyqzdc1RT_fYDKFMcUId0kOZHCdGpVsObm6yt-Yco)
 7. 경계진 관련
-  - [2018 겨울 ①](http://gall.dcinside.com/kancolle/6983085)
-  - [2018 겨울 ②](http://gall.dcinside.com/kancolle/6960578)
-  - [2018 겨울 ③](http://gall.dcinside.com/kancolle/7028788)
+   - [2018 겨울 ①](http://gall.dcinside.com/kancolle/6983085)
+   - [2018 겨울 ②](http://gall.dcinside.com/kancolle/6960578)
+   - [2018 겨울 ③](http://gall.dcinside.com/kancolle/7028788)
 8. ~~2016.08 이후로 공지에서 내린 글 목록 (2017.03.01)~~
