@@ -10,6 +10,8 @@ ex) `2018.9.7` -> `2018.09.07`
 Ordered/Unordered List 작성할 때에 쓰는 들여쓰기에 한 단계당 공백 2개를 사용합니다.\
 이는 Github 편집기에서 Tab을 누르면 Indent 되는 기본값입니다. (우측 상단에서 설정합니다.)\
 \
+단, Ordered List의 자식은 공백을 하나 더 사용해야합니다. (Preview를 보면서 작성합시다.)\
+\
 ex)
 ```
 - 루트 요소입니다.
@@ -17,9 +19,15 @@ ex)
     1. Ordered List 입니다.
     2. Ordered List 입니다.
   * 자식입니다.
-- 루트 요소입니다.
-  1. Ordered List 입니다.
-  2. Ordered List 입니다.
+  
+1. Ordered List 입니다.
+   - 자식입니다.
+     - 자식입니다.
+   - 자식입니다.
+   - 자식입니다.
+2. Ordered List 입니다.
+   - 자식입니다.
+   - 자식입니다.
 ```
 
 ### 링크 작성
