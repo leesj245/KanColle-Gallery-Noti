@@ -52,7 +52,7 @@
   - **신규함, 신규 장비 획득 후 반드시 자물쇠로 잠글 것**
   - **대파 진격 시 다메콘 장착 여부 확인**
   - [**출격이 안되는 경우 확인해봐야 하는 것들**](http://gall.dcinside.com/kancolle/6856985)
-    - [출격 불가 메시지 번역/해결법 정리 문서](sortie_error.md)
+    - [![alert_1](http://203.104.209.183/kcs2/img/sally/alert/alert_1.png)<br>출격 불가 메시지 번역/해결법 정리 문서](sortie_error.md)
     - 모항 여유 5칸 및 장비보관함 여유 20칸 이상 여부 확인
 
 #### 드롭 통계
@@ -265,6 +265,7 @@
    6. [칸코레 임무 트리 (영문)](https://www.kahr-noss.com/OoyodoQuestTracker.html)
 
 ## 3. ![출격](Assets/tab-sortie.png) 출격 (출격 / 레벨링 / 랭작)
+#### [![alert_1](http://203.104.209.183/kcs2/img/sally/alert/alert_1.png)<br># 출격 불가 메시지 번역/해결법 정리 문서](sortie_error.md)
 
 #### 2.0 신규 해역 관련 정보
 - [출격 해역명, 작전명, 작전내용](http://gall.dcinside.com/kancolle/7539631)
