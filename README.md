@@ -118,8 +118,14 @@
    2. [KC3 전략실의 기능 설명](http://gall.dcinside.com/kancolle/4181894)
 
 4. **BeerViewer** (맥주뷰어 // 태블릿용 최적화된 경량화 접속기)
-   - 2.0 개발중. 구버전은 더 이상 업데이트 되지 않음.
-   - 그러니까 구버전 구데기 쓰지마
+   1. 현재 2.0 버전 개발중에 있습니다.
+      - 전투예보가 지원되지 않습니다.
+      - 함선 목록 및 장비 목록이 지원되지 않습니다.
+      - 각종 알림이 지원되지 않습니다. (원정, 대파, 입거 등)
+      - 때때로 크래시가 발생합니다.
+      - 터치 환경에서 많은 문제가 발생합니다. (창 이동/크기 조정 불가 등)
+   2. [Github 페이지](https://github.com/WolfgangKurz/BeerViewer/tree/v2.0)
+   3. [다운로드/설치](https://github.com/WolfgangKurz/BeerViewer/releases)
 
 #### 1-3. 🔗 위키 링크
 1. 일본 위키: [WikiWiki](http://wikiwiki.jp/kancolle/)
