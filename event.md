@@ -53,43 +53,64 @@
 | ![E-5 B](Assets/events/20180908/e5-2.png)<br>라인연습부대 | E-5<br>수상타격부대 | 갑(甲) 난이도에서만 출격 제한 |
 
 ## 전 해역 (E-1 ~ E-5) 종합 정보
-- [아직 이벤 시작 안한 존버충을 위한 ㅌ1과 ㅌ2 간단정리](http://gall.dcinside.com/kancolle/7607115)
-- [E-1 ~ E-3 갑 클리어 편성 (영상 있음)](http://gall.dcinside.com/kancolle/7605931)
-- [\[클리어 영상\] 18년 가을 이벤트 E-1~E-3 제2게이지까지](http://gall.dcinside.com/kancolle/7605575)
-- [「발묘! 연합함대, 서쪽으로!」 E-1~3 전단작전 통합공략](http://gall.dcinside.com/kancolle/7613479)
-- [E1 갑~ E4 갑 클리어 편성](http://gall.dcinside.com/kancolle/7623655)
-- [이벤트 공략 모음](http://gall.dcinside.com/kancolle/7635120)
 - [E-2~E-5 기지항공대 항속표](http://gall.dcinside.com/kancolle/7620599)
+
+* [아직 이벤 시작 안한 존버충을 위한 ㅌ1과 ㅌ2 간단정리](http://gall.dcinside.com/kancolle/7607115)
+* [우군 기다릴겸 쓰는 직무유기 제독용 E-1 ~ E-2 흐접공략](http://gall.dcinside.com/kancolle/7630492)
+* [E-1 ~ E-3 갑 클리어 편성 (영상 있음)](http://gall.dcinside.com/kancolle/7605931)
+* [\[클리어 영상\] 18년 가을 이벤트 E-1~E-3 제2게이지까지](http://gall.dcinside.com/kancolle/7605575)
+* [「발묘! 연합함대, 서쪽으로!」 E-1~3 전단작전 통합공략](http://gall.dcinside.com/kancolle/7613479)
+* [E1 갑~ E4 갑 클리어 편성](http://gall.dcinside.com/kancolle/7623655)
+* [이벤트 공략 모음 최종수정판](http://gall.dcinside.com/kancolle/7670260)
 
 ## E-1 공략/정보 모음
 - [E-1 클리어 가이드](http://gall.dcinside.com/kancolle/7606130)
+- [씹혜자 E-1갑 간단 공략](http://gall.dcinside.com/kancolle/7603126)
 
 ## E-2 공략/정보 모음
 - [E-2 클리어 가이드](http://gall.dcinside.com/kancolle/7609554)
+- [늒스프레 말고 진짜 뉴비를 위한 ㅌ2 병공략](http://gall.dcinside.com/kancolle/7614183)
+- [E-2 갑 키시나미 파밍 공략](http://gall.dcinside.com/kancolle/7668601)
 
 ## E-3 공략/정보 모음
 - [\[클리어 영상\]18년 가을 이벤트 E-3(갑) 제3 게이지 장비 및 편성](http://gall.dcinside.com/kancolle/7605965)
 - [e-3 3게이지 기항대 세팅 꿀팁](http://gall.dcinside.com/kancolle/7619071)
 - [뇌만 있으면 깰 수 있는 ㅌ3 간단정리](http://gall.dcinside.com/kancolle/7613753)
+- [칸코레조무사의 E3 편성 소개](http://gall.dcinside.com/kancolle/7605168)
+- [\[팁\] E3H 기항대 숙작 + 로호퀘](http://gall.dcinside.com/kancolle/7636033)
 
 ## E-4 공략/정보 모음
 - [E4갑 클리어 간증](http://gall.dcinside.com/kancolle/7620656)
+- [E-4 고틀랜드 병 정파밍 단일 최단 편성 및 안전편성](http://gall.dcinside.com/kancolle/7636008) (단일함대)
 - [공략) E-4 고틀랜드 병 정파밍 최단 편성](http://gall.dcinside.com/kancolle/7619631) (수송연합)
 - E-4 수송 단일 편성 파밍
   * [예시1](http://gall.dcinside.com/kancolle/7622108)
   * [예시2](http://gall.dcinside.com/kancolle/7623504)
 - [발묘! 연합함대, 서쪽으로! E-4 가이드](http://gall.dcinside.com/kancolle/7622685)
 - [ㅌ4 수송 최단/편성 간단한 정보](http://gall.dcinside.com/kancolle/7624511)
+- [ㅌ4갑 6잠 루트 ㅋㅋㅋ](http://gall.dcinside.com/kancolle/7621052)
 
 
 ## E-5 공략/정보 모음
+- [E-5루트맵 3차 수정본](http://gall.dcinside.com/kancolle/7644160)
 - [딱지 설명](http://gall.dcinside.com/kancolle/7631715)
-- [E-5 갑 보스방 여는 방법](http://gall.dcinside.com/kancolle/7627560)
+- [E-5갑 딱지 설명](http://gall.dcinside.com/kancolle/7670260)
+
+* [E5 정 클리어/파밍 공략](http://gall.dcinside.com/kancolle/7653306)
+* [E-5갑 단기속성 공략](http://gall.dcinside.com/kancolle/7636120)
+* [공략) E5갑 클리어 공략](http://gall.dcinside.com/kancolle/7652291)
+* [E-5 갑 클리어 편성 (영상O)](http://gall.dcinside.com/kancolle/7670260)
+* [E-5갑 간단한 클리어 가이드](http://gall.dcinside.com/kancolle/7625098)
+* [ㅌ5갑 3차 게이지 기동부대 최단루트 공략](http://gall.dcinside.com/kancolle/7632890)
+* [발묘! 연합함대, 서쪽으로! E-5 갑 사용 편성](http://gall.dcinside.com/kancolle/7635785)
+
 - [E-5 1게이지 병/정 파밍 편성](http://gall.dcinside.com/kancolle/7625225)
+- [ㅌ5 1게이지 병파밍 결산](http://gall.dcinside.com/kancolle/7621682)
+- [E5 병 기준 경-구축 레벨링 / 전과 점수 쌓기 Tip](http://gall.dcinside.com/kancolle/7656115)
+- [\[늒네용\] E-5 을 1차게이지~3차게이지 지름길 기믹](http://gall.dcinside.com/kancolle/7636878)
 - [ㅌ5갑 내가 쓴 기믹편성](http://gall.dcinside.com/kancolle/7634843)
 - [E-5 방깎 수상함대 A승 편성](http://gall.dcinside.com/kancolle/7631092)
-- [ㅌ5갑 3차 게이지 기동부대 최단루트 공략](http://gall.dcinside.com/kancolle/7632890)
-- [발묘! 연합함대, 서쪽으로! E-5 갑 사용 편성](http://gall.dcinside.com/kancolle/7635785)
+- [갑수상파밍 편성](http://gall.dcinside.com/kancolle/7668731)
 
 ---------------------
 
@@ -144,4 +165,4 @@
 ### 각종 위키 링크
 1. 일본 위키: [WikiWiki](http://wikiwiki.jp/kancolle/)
 2. 영문 위키: [Wikia](http://kancolle.wikia.com/wiki/Kancolle_Wiki) / [KancolleWiki](http://en.kancollewiki.net/wiki/Kancolle_Wiki)
-3. [나무위키 칸코레/이벤트 항목](https://namu.wiki/w/칸코레/이벤트)
+3. [나무위키 "칸코레/이벤트" 항목](https://namu.wiki/w/칸코레/이벤트)
