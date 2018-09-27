@@ -101,8 +101,9 @@
 * [공략) E5갑 클리어 공략](http://gall.dcinside.com/kancolle/7652291)
 * [E-5 갑 클리어 편성 (영상O)](http://gall.dcinside.com/kancolle/7670260)
 * [E-5갑 간단한 클리어 가이드](http://gall.dcinside.com/kancolle/7625098)
-* [ㅌ5갑 3차 게이지 기동부대 최단루트 공략](http://gall.dcinside.com/kancolle/7632890)
 * [발묘! 연합함대, 서쪽으로! E-5 갑 사용 편성](http://gall.dcinside.com/kancolle/7635785)
+* [ㅌ5갑 2게이지 기동 간단 공략](http://gall.dcinside.com/kancolle/7680523)
+* [ㅌ5갑 3차 게이지 기동부대 최단루트 공략](http://gall.dcinside.com/kancolle/7632890)
 
 - [E-5 1게이지 병/정 파밍 편성](http://gall.dcinside.com/kancolle/7625225)
 - [ㅌ5 1게이지 병파밍 결산](http://gall.dcinside.com/kancolle/7621682)
