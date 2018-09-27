@@ -1,4 +1,4 @@
-# 출격 불가능 메시지 설명
+# 출격 불가능 메시지 설명/해결법
 
 
 이미지<br>no.1 | ![alert_1](http://203.104.209.183/kcs2/img/sally/alert/alert_1.png)
