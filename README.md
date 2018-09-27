@@ -1,3 +1,4 @@
+# 함대컬렉션 \~칸코레\~ 정보 모음
 ![KanColle Gallery Noti](Assets/logo.jpg)
 
 ## [2018 ~~늦여름~~ 초가을 이벤트 「발묘! 연합함대, 서쪽으로!」](event.md)
