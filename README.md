@@ -100,12 +100,12 @@
 3. [안드로이드 일반 브라우저용 가이드](http://gall.dcinside.com/kancolle/3505365)
 
 #### 1-2. 🕹 접속기 (뷰어)
-1. **제독 업무도 바빠!** (제독뷰어 // 익스플로러 기반 응용 프로그램)
+1. **제독 업무도 바빠!** (제독뷰어 // CEF 기반 응용 프로그램)
    1. [제독업무도 바빠! 한글판 통합 안내](https://wolfgangkurz.github.io/KanColleAssets/kcvkr.html)
    2. [제독업무 데이터베이스 (KanColle OpenDB)](http://opendb.swaytwig.com/)
    3. 문의/건의: [wolfgangkurzdev@gmail.com](mailto:wolfgangkurzdev@gmail.com)
 
-2. **74식 전차관측의** (질싸식, 칠사식 // 익스플로러 기반 응용 프로그램)
+2. **74식 전차관측의** (질싸식, 칠사식 // CEF 기반 응용 프로그램)
    1. [일어판 제작자 공식 페이지](https://github.com/andanteyk/ElectronicObserver/wiki)
    2. [일어판 사용법](http://gall.dcinside.com/kancolle/2347362)
    3. [일어판 설정법](http://gall.dcinside.com/kancolle/3848628)
