@@ -2,8 +2,7 @@
 ![KanColle Gallery Noti](Assets/logo.jpg)
 
 ## [2018 ~~늦여름~~ 초가을 이벤트 「발묘! 연합함대, 서쪽으로!」](event.md)
-[![Early Fall 2018 Event Banner](Assets/events/20180908/banner.gif)](event.md)\
-[# 이벤트 정보 페이지로 이동](event.md)
+[![Early Fall 2018 Event Banner](Assets/events/20180908/banner.gif)<br># 이벤트 정보 페이지로 이동](event.md)
 
 ## 📃 목차
 - [📦 업데이트 정리](#-업데이트-정리)
