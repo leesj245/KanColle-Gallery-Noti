@@ -40,7 +40,7 @@
 
 ## 종합 정보
 - [트위터 번역 (2018.09.08)](http://gall.dcinside.com/kancolle/7605982)
-- [확인된 전단해역 드랍 리스트](http://gall.dcinside.com/kancolle/7609175)
+- [ E1-E5 드랍테이블 2차 수정판](http://gall.dcinside.com/kancolle/7664669)
 - [딱지 관리 템플릿](http://gall.dcinside.com/kancolle/7627783)
 
 | 딱지 | 출격 가능 해역 | 비고 |
