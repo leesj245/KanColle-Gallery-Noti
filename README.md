@@ -260,9 +260,8 @@
    1. [퀘스트 메뉴 개요](http://gall.dcinside.com/kancolle/86224)
    2. [칸코레 **임무 통합본**](http://gall.dcinside.com/kancolle/6253636)
    3. [신규 기종전환 퀘스트 (월간 포함)](http://gall.dcinside.com/kancolle/2975989)
-   4. [출격퀘 일일,주간,월퀘 한장정리](https://github.com/WolfgangKurz/KanColle-Gallery-Noti/blob/master/quest_tree.md)
-   5. [칸코레 임무 정리 사이트 (일문)](https://ooyodo-quest.net/)
-   6. [칸코레 임무 트리 (영문)](https://www.kahr-noss.com/OoyodoQuestTracker.html)
+   4. [칸코레 임무 정리 사이트 (일문)](https://ooyodo-quest.net/)
+   5. [칸코레 임무 트리 (영문)](https://www.kahr-noss.com/OoyodoQuestTracker.html)
 
 ## 3. ![출격](Assets/tab-sortie.png) 출격 (출격 / 레벨링 / 랭작)
 #### [![alert_1](http://203.104.209.183/kcs2/img/sally/alert/alert_1.png)<br># 출격 불가 메시지 번역/해결법 정리 문서](sortie_error.md)
