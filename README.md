@@ -273,9 +273,12 @@
 - [공략) 칸코레 2기 일반해역 자원 파밍 정리](http://gall.dcinside.com/kancolle/7536085)
 - [핫산) 2해역을 이용한 임무 클리어 가이드!](http://gall.dcinside.com/kancolle/7552814)
 
-※ 아래의 1~5해역 정보는 칸코레 1기 정보임 (1-6, 3-5, 6해역은 그대로 유지됨)
-
 #### 3-0. 전체
+```diff
+- ※ `1-6`, `3-5`, `6해역`을 제외한 맵은 재구성되었습니다.
+- ※ 위 해역의 정보만 보시면 됩니다.
+```
+
 - [1~5해역공략 재탕](http://gall.dcinside.com/kancolle/2324598)
 - [해역별 제공수치 표 (1)](http://gall.dcinside.com/kancolle/478975)
 - [해역별 제공수치 표 (2)](http://gall.dcinside.com/kancolle/2016058)
@@ -283,61 +286,23 @@
 
 * **EO** : [**전체가이드**](http://gall.dcinside.com/kancolle/6474457)
 
-#### 3-1. ![1 해역](https://user-images.githubusercontent.com/20940566/30250062-931ce1ac-9683-11e7-873f-56ab68b9e1eb.png) - 1 해역
-- **EO** : [1-5에 대한 고찰](http://gall.dcinside.com/kancolle/4846183)
-- **EO** : [1-5](http://gall.dcinside.com/kancolle/4843845)
+#### 3-1. ![1 해역](Assets/world/world_1r.png) - 1 해역 <진수부해역>
 - **EO** : [1-6](http://gall.dcinside.com/kancolle/4882473)
 
-#### 3-2. ![2 해역](https://user-images.githubusercontent.com/20940566/30250065-932557c4-9683-11e7-82a2-2751c9c32388.png) - 2 해역
-* [![잠수함](https://user-images.githubusercontent.com/20940566/30250101-029a18ba-9684-11e7-9d3c-086ba3f16571.png) 오룔링 가이드](http://gall.dcinside.com/kancolle/1276513)
+#### 3-2. ![2 해역](Assets/world/world_2r.png) - 2 해역 <남서제도해역>
 
-- **EO** : [2-5 윗길 아랫길](http://gall.dcinside.com/kancolle/616524) **2014**
-- **EO** : [2-5 (1경모3중항순2구)](http://gall.dcinside.com/kancolle/441379) **2014**
-- **EO** : [2-5 (2경모2중2구)](http://gall.dcinside.com/kancolle/3825804) **2016**
-- **EO** : [2-5 (3경모1경2구)](http://gall.dcinside.com/kancolle/3388800) **2016**
-
-#### 3-3. ![3 해역](https://user-images.githubusercontent.com/20940566/30250067-93304580-9683-11e7-9811-d385e5f29539.png) - 3 해역
-* [3-2-1 노로테 레벨링](http://gall.dcinside.com/kancolle/4112470) **2016**
-* ~~뉴비를 위한 3-2-1 레벨링 공략~~ **2017**
-
+#### 3-3. ![3 해역](Assets/world/world_3r.png) - 3 해역 <북방해역>
 - EO : [3-5 공략주회 **2017**](http://gall.dcinside.com/kancolle/6359871)
 - EO : [3-5 밑길 (1수3경2구)](http://gall.dcinside.com/kancolle/3816775)
 - EO : [3-5 밑길 (하야스이)](http://gall.dcinside.com/kancolle/3172708)
 - EO : [3-5 윗길 정석 (3잠3항)](http://gall.dcinside.com/kancolle/3275980)
 - EO : [3-5 윗길 (2잠1중3항)](http://gall.dcinside.com/kancolle/5803336)
 
-#### 3-4. ![4 해역](https://user-images.githubusercontent.com/20940566/30250064-93245392-9683-11e7-8d19-bd9c55c9ec18.png) - 4 해역
-- [4해역 (서방해역) 분기보정](http://gall.dcinside.com/kancolle/7678)
+#### 3-4. ![4 해역](Assets/world/world_4r.png) - 4 해역 <남방해역>
 
-* [4-3 레벨링 공략](http://gall.dcinside.com/kancolle/404274)
-* [4-3 구축,경순 레벨링 팁](http://gall.dcinside.com/kancolle/115125)
+#### 3-5. ![5 해역](Assets/world/world_5r.png) - 5 해역 <서방해역>
 
-- **EO** : [4-5 3중3항](http://gall.dcinside.com/kancolle/4661891)
-- **EO** : [4-5 4전1항1잠](http://gall.dcinside.com/kancolle/3339006)
-
-#### 3-5. ![5 해역](https://user-images.githubusercontent.com/20940566/30250063-9320ed10-9683-11e7-8c6e-a02ebf63f0df.png) - 5 해역
-- [5해역 (남방해역) 분기보정](http://gall.dcinside.com/kancolle/7685)
-
-* 5-1
-  - [레벨링 1](http://gall.dcinside.com/kancolle/3388578)
-  - [레벨링 2](http://gall.dcinside.com/kancolle/3388517)
-* 5-3
-  - [수상함대 공략](http://gall.dcinside.com/kancolle/4521466)
-  - [머루유탕 끓이기](http://gall.dcinside.com/kancolle/3362110)
-* 5-4
-  - [전함 MVP 5-4-1 로테이션 레벨링](http://gall.dcinside.com/kancolle/133946)
-  - [레벨링 1](http://gall.dcinside.com/kancolle/3381971)
-  - [레벨링 2](http://gall.dcinside.com/kancolle/3382273)
-  - [레벨링 3](http://gall.dcinside.com/kancolle/3386421)
-  - [레벨링 4](http://gall.dcinside.com/kancolle/3400263)
-
-- **EO** : [5-5 공략 (윗길 2전4항)](http://gall.dcinside.com/kancolle/3360354)
-- **EO** : [5-5 공략 (중간길 3전3잠)](http://gall.dcinside.com/kancolle/4093828)
-- **EO** : [5-5 공략 (중간길 1항2전3잠)](http://gall.dcinside.com/kancolle/5622908)
-- **EO** : [5-5 공략 (윗길 1경항2전2항1잠)](http://gall.dcinside.com/kancolle/5689354)
-- **EO** : [5-5 공략 (야간발함 2항 1전 3잠) **2017**](http://gall.dcinside.com/kancolle/6352791)
-
-#### 3-6. ![6 해역](https://user-images.githubusercontent.com/20940566/30250066-932a4932-9683-11e7-81b6-a3451b065069.png) - 6 해역
+#### 3-6. ![6 해역](Assets/world/world_6r.png) - 6 해역 <중부해역>
 - [6-1 월간퀘 공략](http://gall.dcinside.com/kancolle/2854533)
 
 * [6-2 공략](http://gall.dcinside.com/kancolle/4738820)
@@ -354,6 +319,8 @@
   - [6-5 함대방공 정보](http://gall.dcinside.com/kancolle/5178795)
 - **EO** : [육공 공격력 & 하야부사 6-5 적용 예](http://gall.dcinside.com/kancolle/5758973)
 - **EO** : [6-5 공략 (최상급자용)](http://gall.dcinside.com/kancolle/6360379)
+
+#### 3-7. ![7 해역](Assets/world/world_7r.png) - 7 해역 <남서해역>
 
 #### 3-0. 랭작
 - [**랭작 : 전과점수**의 기본 개념](http://gall.dcinside.com/kancolle/3608405)
