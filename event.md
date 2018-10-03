@@ -93,8 +93,7 @@
 
 ## E-5 공략/정보 모음
 - [E-5루트맵 3차 수정본](http://gall.dcinside.com/kancolle/7644160)
-- [딱지 설명](http://gall.dcinside.com/kancolle/7631715)
-- [E-5갑 딱지 설명](http://gall.dcinside.com/kancolle/7670260)
+- [E-5갑 딱지 설명](http://gall.dcinside.com/kancolle/7631715)
 
 * [E5 정 클리어/파밍 공략](http://gall.dcinside.com/kancolle/7653306)
 * [E-5갑 단기속성 공략](http://gall.dcinside.com/kancolle/7636120)
