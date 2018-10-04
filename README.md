@@ -153,12 +153,13 @@
    1. ~~편성, 출격퀘 및 2차 개장을 고려하여 키울만한 칸무스들 정리~~
    2. [뉴비 제독들을 위한 구축함 성능 리스트](http://gall.dcinside.com/kancolle/4187193)
    3. [2차 개장 칸무스 현황 리스트](http://gall.dcinside.com/kancolle/4296634)
-   4. [**설계도 필요 함선 및 입수 방법** (18.07.12)](http://gall.dcinside.com/kancolle/7412403)
-   5. [**선제 대잠** 가능 레벨 리스트 (18.07.24)](http://gall.dcinside.com/kancolle/7446986)
-   6. [키라/피로도의 설명과 이에 따른 각종 효과](http://gall.dcinside.com/kancolle/6275509)
-   7. [급양함 마미야/이라코의 키라효과](http://gall.dcinside.com/kancolle/6277274)
-   8. [굉침 스토퍼와 4n, 4n-1](http://gall.dcinside.com/kancolle/6325653)
-   9. [해방함의 특성에 대해서](http://gall.dcinside.com/kancolle/6401459)
+   4. [**설계도 필요 함선** (18.09.09)](http://gall.dcinside.com/kancolle/7708802)
+   5. [**설계도 입수 방법** (18.07.12)](http://gall.dcinside.com/kancolle/7412403)
+   6. [**선제 대잠** 가능 레벨 리스트 (18.07.24)](http://gall.dcinside.com/kancolle/7446986)
+   7. [키라/피로도의 설명과 이에 따른 각종 효과](http://gall.dcinside.com/kancolle/6275509)
+   8. [급양함 마미야/이라코의 키라효과](http://gall.dcinside.com/kancolle/6277274)
+   9. [굉침 스토퍼와 4n, 4n-1](http://gall.dcinside.com/kancolle/6325653)
+   10. [해방함의 특성에 대해서](http://gall.dcinside.com/kancolle/6401459)
 
 2. 장비 세팅
    1. [장비 세팅 개요](http://gall.dcinside.com/kancolle/2110709)
