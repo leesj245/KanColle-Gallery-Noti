@@ -283,7 +283,7 @@
 - [1~5해역공략 재탕](http://gall.dcinside.com/kancolle/2324598)
 - [해역별 제공수치 표 (1)](http://gall.dcinside.com/kancolle/478975)
 - [해역별 제공수치 표 (2)](http://gall.dcinside.com/kancolle/2016058)
-- [출격 해역명, 작전명 정리+번역](http://gall.dcinside.com/kancolle/4391761)
+- [출격 해역명, 작전명, 작전내용 정리+번역](http://gall.dcinside.com/kancolle/7539631)
 
 * **EO** : [**전체가이드**](http://gall.dcinside.com/kancolle/6474457)
 
