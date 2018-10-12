@@ -1,9 +1,6 @@
 # 함대컬렉션 \~칸코레\~ 플레이 정보 종합 페이지
 ![KanColle Gallery Noti](Assets/logo.jpg)
 
-## [2018 ~~늦여름~~ 초가을 이벤트 「발묘! 연합함대, 서쪽으로!」](event.md)
-[![Early Fall 2018 Event Banner](Assets/events/20180908/banner.gif)<br># 이벤트 정보 페이지로 이동](event.md)
-
 ## 📃 목차
 - [📦 업데이트 정리](#-업데이트-정리)
 - [🥇 이벤트 정보](#-이벤트-정보)
@@ -60,12 +57,10 @@
   - poi-statistics: [https://db.kcwiki.org/drop/](https://db.kcwiki.org/drop/)
 
 #### 진행 중 / 예정된 이벤트
-  * [2018 ~~늦여름~~ 초가을 이벤트 **「발묘! 연합함대, 서쪽으로!」**](event.md)
-    - 전단작전 (3해역) 9월 8일 토요일, 후단작전 (2해역) 9월 12일 수요일 개시
-    - 이벤트 기간: 2018.09.08 ~ 2018.10.10
-    - 신규 칸무스: 넬슨, 키시나미, 신요, 고틀란드, 마에스트랄레
+  * 꽁치잡이 미니이벤트
 
 #### 지난 이벤트
+  * [2018 ~~늦여름~~ 초가을 이벤트 「발묘! 연합함대, 서쪽으로!」](events/2018fall.md)
   * 2018 봄 「먹을 것 미니이벤트」 [①](http://gall.dcinside.com/kancolle/7230463), [②](http://gall.dcinside.com/kancolle/7235238), [③](http://gall.dcinside.com/kancolle/7237439)
   * 2018 겨울 「첩호결전! 요격, 레이테 해전 (후편)」 [①](http://gall.dcinside.com/kancolle/6947645), [②](http://gall.dcinside.com/kancolle/6983426), [③](http://gall.dcinside.com/kancolle/6933050)
   * [2017 가을 「첩호결전! 요격, 레이테 해전 (전편)」](http://gall.dcinside.com/kancolle/6620131)
