@@ -274,6 +274,7 @@
 - ※ `1-6`, `3-5`, `6해역`을 제외한 맵은 재구성되었습니다.
 - ※ 위 해역의 정보만 보시면 됩니다.
 ```
+- [칸코레 리뉴얼된 해역들 알고 있는 정보 + 간증](http://gall.dcinside.com/kancolle/7529355)
 
 - [1~5해역공략 재탕](http://gall.dcinside.com/kancolle/2324598)
 - [해역별 제공수치 표 (1)](http://gall.dcinside.com/kancolle/478975)
