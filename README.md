@@ -172,10 +172,17 @@
    7. [정규/경항모 야전 화력 계산](http://gall.dcinside.com/kancolle/6317284)
    8. [야전공모의 야전 화력 계산](http://gall.dcinside.com/kancolle/6378909)
       - [항모 야간컷인 화력 추정식](http://gall.dcinside.com/kancolle/6937635)
-   9. [구축함 주포의 피트보정과 운용](http://gall.dcinside.com/kancolle/7644544)
-      - [구축함 주포의 피트보정(12.7cm연장포A형改3/B형改4)](http://gall.dcinside.com/kancolle/7644668)
-      - [구축함 어뢰의 피트보정](http://gall.dcinside.com/kancolle/7644869)
-   10. [대육상 공격 특공배율에 대해서](http://gall.dcinside.com/kancolle/7407925)
+   9. [대육상 공격 특공배율에 대해서](http://gall.dcinside.com/kancolle/7407925)
+   10. 피트보정
+      1. 전함/순양함
+          - [전함/순양함의 피트 포와 과적에 대해](http://gall.dcinside.com/kancolle/6860296)
+          - [전함의 대구경주포 피트보정에 대해서](http://gall.dcinside.com/kancolle/6989269)
+          - [전함 피트포의 보충](http://gall.dcinside.com/kancolle/6989372)
+          - [순양함주포 피트 보정](http://gall.dcinside.com/kancolle/6762174)
+      2. 구축함
+         - [구축함 주포의 피트보정과 운용](http://gall.dcinside.com/kancolle/7644544)
+         - [구축함 주포의 피트보정(12.7cm연장포A형改3/B형改4)](http://gall.dcinside.com/kancolle/7644668)
+         - [구축함 어뢰의 피트보정](http://gall.dcinside.com/kancolle/7644869)
 
 3. 대공, 함재기
    1. [**대공**(함대방공, 대공컷인)에 대해서](http://gall.dcinside.com/kancolle/4136381)
@@ -190,7 +197,7 @@
    1. [기지항공대 소개 (18.02.12)](http://gall.dcinside.com/kancolle/6854289)
    2. [기지항공대 제공권 계산식 (+정찰기 효과)](http://gall.dcinside.com/kancolle/4631140)
       - [기지항공대용 전투기(국지전투기, 육상전투기) 소개](http://gall.dcinside.com/kancolle/5671456)
-        - [기지항공대용 전투기 성능 정리 (18.10.14)](http://gall.dcinside.com/kancolle/7746638)
+      - [기지항공대용 전투기 성능 정리 (18.10.14)](http://gall.dcinside.com/kancolle/7746638)
       - [기지항공대 제공치+행동반경 계산기](http://gall.dcinside.com/kancolle/4989097)
       - [기지항공대 출격/방공 제공치 조견표 (18.02.28)](http://gall.dcinside.com/kancolle/6936293)
    3. [기지항공대 출격/배치 소비 자원 조견표 (17.12.14)](http://gall.dcinside.com/kancolle/6655815)
@@ -215,18 +222,14 @@
 7. 계산과 검증
    1. [~~명중(**피트**)~~, 회피, 컷인확률 (16.08.29)](http://gall.dcinside.com/kancolle/4664388)
       - [어뢰 컷인 계산기](http://gall.dcinside.com/kancolle/4654754)
-   2. [전함/순양함의 피트 포와 과적에 대해](http://gall.dcinside.com/kancolle/6860296)
-      - [전함의 대구경주포 피트보정에 대해서](http://gall.dcinside.com/kancolle/6989269)
-      - [전함 피트포의 보충](http://gall.dcinside.com/kancolle/6989372)
-       - [순양함주포 피트 보정](http://gall.dcinside.com/kancolle/6762174)
-   3. [**데미지** 계산법 (16.09.03)](http://gall.dcinside.com/kancolle/4664391)
+   2. [**데미지** 계산법 (16.09.03)](http://gall.dcinside.com/kancolle/4664391)
       - [대잠공격계산의 기본과 계산식 등](http://gall.dcinside.com/kancolle/6509761)
        - [대잠 시너지 계산 관련](http://gall.dcinside.com/kancolle/7339275)
-   4. [**색적**, 기타 검증 (16.08.29)](http://gall.dcinside.com/kancolle/4664387)
-   5. **운작**
+   3. [**색적**, 기타 검증 (16.08.29)](http://gall.dcinside.com/kancolle/4664387)
+   4. **운작**
       - [마루유 갯수별 운 상승치 기대값 계산](http://gall.dcinside.com/kancolle/4573887)
       - [운작 우선순위, 추천 칸무스](http://gall.dcinside.com/kancolle/5444115)
-        - [운작에 의한 명중률, 회피율의 상승](http://gall.dcinside.com/kancolle/7021864)
+      - [운작에 의한 명중률, 회피율의 상승](http://gall.dcinside.com/kancolle/7021864)
 
 #### 2-2. 🛠 강화 : 개발, 건조, 개수
 1. 개발
