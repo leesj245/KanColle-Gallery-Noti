@@ -174,15 +174,15 @@
       - [항모 야간컷인 화력 추정식](http://gall.dcinside.com/kancolle/6937635)
    9. [대육상 공격 특공배율에 대해서](http://gall.dcinside.com/kancolle/7407925)
    10. 피트보정
-      1. 전함/순양함
-          - [전함/순양함의 피트 포와 과적에 대해](http://gall.dcinside.com/kancolle/6860296)
-          - [전함의 대구경주포 피트보정에 대해서](http://gall.dcinside.com/kancolle/6989269)
-          - [전함 피트포의 보충](http://gall.dcinside.com/kancolle/6989372)
-          - [순양함주포 피트 보정](http://gall.dcinside.com/kancolle/6762174)
-      2. 구축함
-         - [구축함 주포의 피트보정과 운용](http://gall.dcinside.com/kancolle/7644544)
-         - [구축함 주포의 피트보정(12.7cm연장포A형改3/B형改4)](http://gall.dcinside.com/kancolle/7644668)
-         - [구축함 어뢰의 피트보정](http://gall.dcinside.com/kancolle/7644869)
+       1. 전함/순양함
+           - [전함/순양함의 피트 포와 과적에 대해](http://gall.dcinside.com/kancolle/6860296)
+           - [전함의 대구경주포 피트보정에 대해서](http://gall.dcinside.com/kancolle/6989269)
+           - [전함 피트포의 보충](http://gall.dcinside.com/kancolle/6989372)
+           - [순양함주포 피트 보정](http://gall.dcinside.com/kancolle/6762174)
+       2. 구축함
+          - [구축함 주포의 피트보정과 운용](http://gall.dcinside.com/kancolle/7644544)
+          - [구축함 주포의 피트보정(12.7cm연장포A형改3/B형改4)](http://gall.dcinside.com/kancolle/7644668)
+          - [구축함 어뢰의 피트보정](http://gall.dcinside.com/kancolle/7644869)
 
 3. 대공, 함재기
    1. [**대공**(함대방공, 대공컷인)에 대해서](http://gall.dcinside.com/kancolle/4136381)
