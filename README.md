@@ -142,10 +142,10 @@
 - [칸코레 전투 진행 과정 개요](http://gall.dcinside.com/kancolle/705673)
 - [함대 편성 순서 배치에 고려할 점들](http://gall.dcinside.com/kancolle/4136878)
 - [심해 연합함대와의 야전 조건](http://gall.dcinside.com/kancolle/6257804)
+- [연합함대의 사양과 특징・운용 주의점 등 기본사항정리](http://gall.dcinside.com/kancolle/7730703)
 - 경계진 관련
-   - [2018 겨울 ①](http://gall.dcinside.com/kancolle/6983085)
-   - [2018 겨울 ②](http://gall.dcinside.com/kancolle/6960578)
-   - [2018 겨울 ③](http://gall.dcinside.com/kancolle/7028788)
+   - [경계진의 활용, 운용에 관해서 주의점 등](http://gall.dcinside.com/kancolle/7722186)
+     - 2018 겨울 [①](http://gall.dcinside.com/kancolle/6983085), [②](http://gall.dcinside.com/kancolle/6960578), [③](http://gall.dcinside.com/kancolle/7028788)
 
 1. 함선
    1. ~~편성, 출격퀘 및 2차 개장을 고려하여 키울만한 칸무스들 정리~~
