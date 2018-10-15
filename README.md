@@ -142,6 +142,10 @@
 - [칸코레 전투 진행 과정 개요](http://gall.dcinside.com/kancolle/705673)
 - [함대 편성 순서 배치에 고려할 점들](http://gall.dcinside.com/kancolle/4136878)
 - [심해 연합함대와의 야전 조건](http://gall.dcinside.com/kancolle/6257804)
+- 경계진 관련
+   - [2018 겨울 ①](http://gall.dcinside.com/kancolle/6983085)
+   - [2018 겨울 ②](http://gall.dcinside.com/kancolle/6960578)
+   - [2018 겨울 ③](http://gall.dcinside.com/kancolle/7028788)
 
 1. 함선
    1. ~~편성, 출격퀘 및 2차 개장을 고려하여 키울만한 칸무스들 정리~~
@@ -280,9 +284,9 @@
 - ※ 위 해역의 정보만 보시면 됩니다.
 ```
 - [칸코레 리뉴얼된 해역들 알고 있는 정보 + 간증](http://gall.dcinside.com/kancolle/7529355)
-- [1~5해역공략 재탕](http://gall.dcinside.com/kancolle/2324598)
-- [해역별 제공수치 표 (1)](http://gall.dcinside.com/kancolle/478975)
-- [해역별 제공수치 표 (2)](http://gall.dcinside.com/kancolle/2016058)
+- ~~[1~5해역공략 재탕](http://gall.dcinside.com/kancolle/2324598)~
+- ~~[해역별 제공수치 표 (1)](http://gall.dcinside.com/kancolle/478975)~~
+- ~~[해역별 제공수치 표 (2)](http://gall.dcinside.com/kancolle/2016058)~~
 - [출격 해역명, 작전명, 작전내용 정리+번역](http://gall.dcinside.com/kancolle/7539631)
 
 * **EO** : [**전체가이드**](http://gall.dcinside.com/kancolle/6474457)
@@ -325,8 +329,8 @@
 
 #### 3-0. 랭작
 - [**랭작 : 전과점수**의 기본 개념](http://gall.dcinside.com/kancolle/3608405)
-- [5-4 윗길 랭작 하는 방법](http://gall.dcinside.com/kancolle/3273048)
-- [5-4 랭작 노하우와 팁](http://gall.dcinside.com/kancolle/3497831)
+- ~~[5-4 윗길 랭작 하는 방법](http://gall.dcinside.com/kancolle/3273048)~~
+- ~~[5-4 랭작 노하우와 팁](http://gall.dcinside.com/kancolle/3497831)~~
 - [전과기지 (서버별 전과 추이 등)](https://senka.com.ru/)
 
 ## 4. 📟 계산 사이트
@@ -342,8 +346,4 @@
 4. [칸코레 계정 일본 옥션 거래 후기 및 팁](http://gall.dcinside.com/kancolle/4493595)
 5. [2차대전 침몰한 일본함 위치 구글맵](http://gall.dcinside.com/kancolle/6675470)
 6. [깡비타 시스템 해석 문서 (일어)](https://docs.google.com/document/d/1tqYyqzdc1RT_fYDKFMcUId0kOZHCdGpVsObm6yt-Yco)
-7. 경계진 관련
-   - [2018 겨울 ①](http://gall.dcinside.com/kancolle/6983085)
-   - [2018 겨울 ②](http://gall.dcinside.com/kancolle/6960578)
-   - [2018 겨울 ③](http://gall.dcinside.com/kancolle/7028788)
-8. ~~2016.08 이후로 공지에서 내린 글 목록 (2017.03.01)~~
+7. ~~2016.08 이후로 공지에서 내린 글 목록 (2017.03.01)~~
