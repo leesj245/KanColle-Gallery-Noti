@@ -181,7 +181,7 @@
            - [순양함주포 피트 보정](http://gall.dcinside.com/kancolle/6762174)
        2. 구축함
           - [구축함 주포의 피트보정과 운용](http://gall.dcinside.com/kancolle/7644544)
-          - [구축함 주포의 피트보정(12.7cm연장포A형改3/B형改4)](http://gall.dcinside.com/kancolle/7644668)
+          - [구축함 주포의 피트보정 (12.7cm연장포A형改3/B형改4)](http://gall.dcinside.com/kancolle/7644668)
           - [구축함 어뢰의 피트보정](http://gall.dcinside.com/kancolle/7644869)
 
 3. 대공, 함재기
