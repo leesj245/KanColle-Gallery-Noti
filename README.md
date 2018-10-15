@@ -155,6 +155,10 @@
    8. [급양함 마미야/이라코의 키라효과](http://gall.dcinside.com/kancolle/6277274)
    9. [굉침 스토퍼와 4n, 4n-1](http://gall.dcinside.com/kancolle/6325653)
    10. [해방함의 특성에 대해서](http://gall.dcinside.com/kancolle/6401459)
+   11. 운작
+       - [마루유 갯수별 운 상승치 기대값 계산](http://gall.dcinside.com/kancolle/4573887)
+       - [운작 우선순위, 추천 칸무스](http://gall.dcinside.com/kancolle/5444115)
+       - [운작에 의한 명중률, 회피율의 상승](http://gall.dcinside.com/kancolle/7021864)
 
 2. 장비 세팅
    1. [장비 세팅 개요](http://gall.dcinside.com/kancolle/2110709)
@@ -172,8 +176,10 @@
    7. [정규/경항모 야전 화력 계산](http://gall.dcinside.com/kancolle/6317284)
    8. [야전공모의 야전 화력 계산](http://gall.dcinside.com/kancolle/6378909)
       - [항모 야간컷인 화력 추정식](http://gall.dcinside.com/kancolle/6937635)
-   9. [대육상 공격 특공배율에 대해서](http://gall.dcinside.com/kancolle/7407925)
-   10. 피트보정
+   9. [대잠공격계산의 기본과 계산식 등](http://gall.dcinside.com/kancolle/6509761)
+      - [대잠 시너지 계산 관련](http://gall.dcinside.com/kancolle/7339275)
+   10. [대육상 공격 특공배율에 대해서](http://gall.dcinside.com/kancolle/7407925)
+   11. 피트보정
        1. 전함/순양함
            - [전함/순양함의 피트 포와 과적에 대해](http://gall.dcinside.com/kancolle/6860296)
            - [전함의 대구경주포 피트보정에 대해서](http://gall.dcinside.com/kancolle/6989269)
@@ -221,13 +227,7 @@
 
 7. 계산과 검증
    1. [**데미지** 계산법 (16.09.03)](http://gall.dcinside.com/kancolle/4664391)
-      - [대잠공격계산의 기본과 계산식 등](http://gall.dcinside.com/kancolle/6509761)
-      - [대잠 시너지 계산 관련](http://gall.dcinside.com/kancolle/7339275)
    2. [**색적**, 기타 검증 (16.08.29)](http://gall.dcinside.com/kancolle/4664387)
-   3. **운작**
-      - [마루유 갯수별 운 상승치 기대값 계산](http://gall.dcinside.com/kancolle/4573887)
-      - [운작 우선순위, 추천 칸무스](http://gall.dcinside.com/kancolle/5444115)
-      - [운작에 의한 명중률, 회피율의 상승](http://gall.dcinside.com/kancolle/7021864)
 
 #### 2-2. 🛠 강화 : 개발, 건조, 개수
 1. 개발
