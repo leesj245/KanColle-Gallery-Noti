@@ -199,7 +199,7 @@
    3. [대공병장의 개수효과: 가중대공치 및 함대방공보너스](http://gall.dcinside.com/kancolle/7081704)
    4. [대공컷인 종류별 발동조건 및 보너스 (18.08.02)](http://gall.dcinside.com/kancolle/7474713)
    5. [함재기 배치 개론](http://gall.dcinside.com/kancolle/2581619)
-   6. [함상공격기, 함상폭격기 성능표 (18.02.19)](http://gall.dcinside.com/kancolle/6884383)
+   6. [함상공격기, 함상폭격기 성능표 (18.10.15)](http://gall.dcinside.com/kancolle/7750582)
    7. [**항공전 / 기지항공대 개괄** (16.08.30)](http://gall.dcinside.com/kancolle/4664392)
 
 4. 기지항공대
