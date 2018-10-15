@@ -172,18 +172,17 @@
           - [컷인별 확률표 (18.03.11)](http://gall.dcinside.com/kancolle/6989018), [엑셀 파일](http://gall.dcinside.com/kancolle/6996270)
           - [구축함 전용 컷인](http://gall.dcinside.com/kancolle/6465368)
    3. [전함의 탄착관측사격 데미지 기대값 비교](http://gall.dcinside.com/kancolle/327377)
-      - [탄착 관측 사격 확률](http://gall.dcinside.com/kancolle/6628988)
-   
-   5. [중순양함 장비세팅 정리](http://gall.dcinside.com/kancolle/3568714)
-   6. 항공모함 관련
+      - [탄착 관측 사격 확률](http://gall.dcinside.com/kancolle/6628988)   
+   4. [중순양함 장비세팅 정리](http://gall.dcinside.com/kancolle/3568714)
+   5. 항공모함 관련
       - [주간전 항모컷인(전폭연합)에 대해](http://gall.dcinside.com/kancolle/6625768)
       - [정규/경항모 야전 화력 계산](http://gall.dcinside.com/kancolle/6317284)
       - [야전공모의 야전 화력 계산](http://gall.dcinside.com/kancolle/6378909)
       - [항모 야간컷인 화력 추정식](http://gall.dcinside.com/kancolle/6937635)
-   7. [대잠공격계산의 기본과 계산식 등](http://gall.dcinside.com/kancolle/6509761)
+   6. [대잠공격계산의 기본과 계산식 등](http://gall.dcinside.com/kancolle/6509761)
       - [대잠 시너지 계산 관련](http://gall.dcinside.com/kancolle/7339275)
-   8. [대육상 공격 특공배율에 대해서](http://gall.dcinside.com/kancolle/7407925)
-   9. 피트보정
+   7. [대육상 공격 특공배율에 대해서](http://gall.dcinside.com/kancolle/7407925)
+   8. 피트보정
        1. 전함/순양함
            - [전함/순양함의 피트 포와 과적에 대해](http://gall.dcinside.com/kancolle/6860296)
            - [전함의 대구경주포 피트보정에 대해서](http://gall.dcinside.com/kancolle/6989269)
