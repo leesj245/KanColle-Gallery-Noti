@@ -162,8 +162,8 @@
 
 2. 장비 세팅
    1. [장비 세팅 개요](http://gall.dcinside.com/kancolle/2110709)
-   2. [주간 포격전/야전 세팅 정리](http://gall.dcinside.com/kancolle/1086440)
-      1. 주간 포격전
+   2. [주간전/야전 세팅 정리](http://gall.dcinside.com/kancolle/1086440)
+      1. 주간전
           - [주간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/728168)
       2. 야전
           - [야간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/538385)
