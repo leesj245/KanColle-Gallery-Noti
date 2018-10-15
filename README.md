@@ -172,7 +172,9 @@
    7. [정규/경항모 야전 화력 계산](http://gall.dcinside.com/kancolle/6317284)
    8. [야전공모의 야전 화력 계산](http://gall.dcinside.com/kancolle/6378909)
       - [항모 야간컷인 화력 추정식](http://gall.dcinside.com/kancolle/6937635)
-   9. [구축함주포의 피트보정과 운용](http://gall.dcinside.com/kancolle/7394815)
+   9. [구축함 주포의 피트보정과 운용](http://gall.dcinside.com/kancolle/7644544)
+      - [구축함 주포의 피트보정(12.7cm연장포A형改3/B형改4)](http://gall.dcinside.com/kancolle/7644668)
+      - [구축함 어뢰의 피트보정](http://gall.dcinside.com/kancolle/7644869)
    10. [대육상 공격 특공배율에 대해서](http://gall.dcinside.com/kancolle/7407925)
 
 3. 대공, 함재기
