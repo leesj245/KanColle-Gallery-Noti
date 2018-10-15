@@ -209,8 +209,7 @@
    3. [기지항공대 출격/배치 소비 자원 조견표 (17.12.14)](http://gall.dcinside.com/kancolle/6655815)
    4. [기지항공대의 공격기 성능 정리](http://gall.dcinside.com/kancolle/6256524)
    5. [기지항공대의 피격추 정리](http://gall.dcinside.com/kancolle/6256790)
-   6. [국지전투기 스펙 정리](http://gall.dcinside.com/kancolle/6163795)
-   7. [공습시의 각 기지항공대의 상황와 피해의 관계](http://gall.dcinside.com/kancolle/6468543)
+   6. [공습시의 각 기지항공대의 상황와 피해의 관계](http://gall.dcinside.com/kancolle/6468543)
 
 5. 지원함대
    1. [(구) 지원함대 개요](http://gall.dcinside.com/kancolle/274163)
