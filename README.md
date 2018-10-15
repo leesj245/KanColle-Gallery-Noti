@@ -220,13 +220,11 @@
       - [연습전 경험치 계산기](http://swaytwig.com/#calc)
 
 7. 계산과 검증
-   1. [~~명중(**피트**)~~, 회피, 컷인확률 (16.08.29)](http://gall.dcinside.com/kancolle/4664388)
-      - [어뢰 컷인 계산기](http://gall.dcinside.com/kancolle/4654754)
-   2. [**데미지** 계산법 (16.09.03)](http://gall.dcinside.com/kancolle/4664391)
+   1. [**데미지** 계산법 (16.09.03)](http://gall.dcinside.com/kancolle/4664391)
       - [대잠공격계산의 기본과 계산식 등](http://gall.dcinside.com/kancolle/6509761)
-       - [대잠 시너지 계산 관련](http://gall.dcinside.com/kancolle/7339275)
-   3. [**색적**, 기타 검증 (16.08.29)](http://gall.dcinside.com/kancolle/4664387)
-   4. **운작**
+      - [대잠 시너지 계산 관련](http://gall.dcinside.com/kancolle/7339275)
+   2. [**색적**, 기타 검증 (16.08.29)](http://gall.dcinside.com/kancolle/4664387)
+   3. **운작**
       - [마루유 갯수별 운 상승치 기대값 계산](http://gall.dcinside.com/kancolle/4573887)
       - [운작 우선순위, 추천 칸무스](http://gall.dcinside.com/kancolle/5444115)
       - [운작에 의한 명중률, 회피율의 상승](http://gall.dcinside.com/kancolle/7021864)
