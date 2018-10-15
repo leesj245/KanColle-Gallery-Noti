@@ -162,12 +162,14 @@
 
 2. 장비 세팅
    1. [장비 세팅 개요](http://gall.dcinside.com/kancolle/2110709)
-   2. [주/야간 컷인 세팅 정리](http://gall.dcinside.com/kancolle/1086440)
-      - [컷인별 확률표 (18.03.11)](http://gall.dcinside.com/kancolle/6989018), [엑셀 파일](http://gall.dcinside.com/kancolle/6996270)
-      - [야간 컷인 확률표 (17.08.06)](http://gall.dcinside.com/kancolle/6076413)
-      - [주간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/728168)
-      - [야간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/538385)
-      - [구축함 전용 컷인](http://gall.dcinside.com/kancolle/6465368)
+   2. [주간 포격전/야전 세팅 정리](http://gall.dcinside.com/kancolle/1086440)
+      1. 주간 포격전
+          - [주간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/728168)
+      2. 야전
+          - [야간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/538385)
+          - [야간 컷인 발동률 (17.08.06)](http://gall.dcinside.com/kancolle/6076413)
+          - [컷인별 확률표 (18.03.11)](http://gall.dcinside.com/kancolle/6989018), [엑셀 파일](http://gall.dcinside.com/kancolle/6996270)
+          - [구축함 전용 컷인](http://gall.dcinside.com/kancolle/6465368)
    3. [전함의 탄착관측사격 데미지 기대값 비교](http://gall.dcinside.com/kancolle/327377)
       - [탄착 관측 사격 확률](http://gall.dcinside.com/kancolle/6628988)
    4. [주간전 화력캡 잡담](http://gall.dcinside.com/kancolle/6257500)
