@@ -138,11 +138,17 @@
 2. [일람 메이커 (편성+장비 스샷을 쉽게 제작)](http://gall.dcinside.com/kancolle/5353536)
 
 ## 2. 🏗 함대 운영
-#### 2-1. 📝 세팅 : 함선, 장비
+#### 2-1. 📝 세팅 : 전투, 함선, 장비
 - [칸코레 전투 진행 과정 개요](http://gall.dcinside.com/kancolle/705673)
 - [함대 편성 순서 배치에 고려할 점들](http://gall.dcinside.com/kancolle/4136878)
-- [심해 연합함대와의 야전 조건](http://gall.dcinside.com/kancolle/6257804)
-- [주간 포격전의 명중률과 회피율](http://gall.dcinside.com/kancolle/6259835)
+- 연합함대 관련
+   - [연합함대의 사양과 특징・운용 주의점 등 기본사항정리](http://gall.dcinside.com/kancolle/7730703)
+   - [적연합함대와의 전투에 관해서 통상함대전과의 변경점 등](http://gall.dcinside.com/kancolle/7752159)
+   - [심해 연합함대와의 야전 조건](http://gall.dcinside.com/kancolle/6257804)
+- 경계진 관련
+   - [경계진의 활용, 운용에 관해서 주의점 등](http://gall.dcinside.com/kancolle/7722186)
+     - 2018 겨울 [①](http://gall.dcinside.com/kancolle/6983085), [②](http://gall.dcinside.com/kancolle/6960578), [③](http://gall.dcinside.com/kancolle/7028788)
+- [넬슨터치 발동률 검증](http://gall.dcinside.com/kancolle/7753050)
 
 1. 함선
    1. ~~편성, 출격퀘 및 2차 개장을 고려하여 키울만한 칸무스들 정리~~
@@ -155,27 +161,44 @@
    8. [급양함 마미야/이라코의 키라효과](http://gall.dcinside.com/kancolle/6277274)
    9. [굉침 스토퍼와 4n, 4n-1](http://gall.dcinside.com/kancolle/6325653)
    10. [해방함의 특성에 대해서](http://gall.dcinside.com/kancolle/6401459)
+   11. 운작
+       - [마루유 갯수별 운 상승치 기대값 계산](http://gall.dcinside.com/kancolle/4573887)
+       - [운작 우선순위, 추천 칸무스](http://gall.dcinside.com/kancolle/5444115)
+       - [운작에 의한 명중률, 회피율의 상승](http://gall.dcinside.com/kancolle/7021864)
 
 2. 장비 세팅
    1. [장비 세팅 개요](http://gall.dcinside.com/kancolle/2110709)
-   2. [주/야간 컷인 세팅 정리](http://gall.dcinside.com/kancolle/1086440)
-      - [컷인별 확률표 (18.03.11)](http://gall.dcinside.com/kancolle/6989018), [엑셀 파일](http://gall.dcinside.com/kancolle/6996270)
-      - [야간 컷인 확률표 (17.08.06)](http://gall.dcinside.com/kancolle/6076413)
-      - [주간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/728168)
-      - [야간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/538385)
-      - [구축함 전용 컷인](http://gall.dcinside.com/kancolle/6465368)
+   2. [주간전/야전 세팅 정리](http://gall.dcinside.com/kancolle/1086440)
+      1. 주간전
+          - [주간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/728168)
+          - [주간 포격전의 명중률과 회피율](http://gall.dcinside.com/kancolle/6259835)
+          - [주간전 화력캡 잡담](http://gall.dcinside.com/kancolle/6257500)
+      2. 야전
+          - [야간 연격, 컷인 세팅표](http://gall.dcinside.com/kancolle/538385)
+          - [야간 컷인 발동률 (17.08.06)](http://gall.dcinside.com/kancolle/6076413)
+          - [컷인별 확률표 (18.03.11)](http://gall.dcinside.com/kancolle/6989018), [엑셀 파일](http://gall.dcinside.com/kancolle/6996270)
+          - [구축함 전용 컷인](http://gall.dcinside.com/kancolle/6465368)
    3. [전함의 탄착관측사격 데미지 기대값 비교](http://gall.dcinside.com/kancolle/327377)
-      - [탄착 관측 사격 확률](http://gall.dcinside.com/kancolle/6628988)
-   4. [주간전 화력캡 잡담](http://gall.dcinside.com/kancolle/6257500)
-   5. [중순양함 장비세팅 정리](http://gall.dcinside.com/kancolle/3568714)
-   6. [주간전 항모컷인(전폭연합)에 대해](http://gall.dcinside.com/kancolle/6625768)
-   7. [정규/경항모 야전 화력 계산](http://gall.dcinside.com/kancolle/6317284)
-   8. [야전공모의 야전 화력 계산](http://gall.dcinside.com/kancolle/6378909)
+      - [탄착 관측 사격 확률](http://gall.dcinside.com/kancolle/6628988)   
+   4. [중순양함 장비세팅 정리](http://gall.dcinside.com/kancolle/3568714)
+   5. 항공모함 관련
+      - [주간전 항모컷인(전폭연합)에 대해](http://gall.dcinside.com/kancolle/6625768)
+      - [정규/경항모 야전 화력 계산](http://gall.dcinside.com/kancolle/6317284)
+      - [야전공모의 야전 화력 계산](http://gall.dcinside.com/kancolle/6378909)
       - [항모 야간컷인 화력 추정식](http://gall.dcinside.com/kancolle/6937635)
-   9. [구축함 주포의 피트보정과 운용](http://gall.dcinside.com/kancolle/7644544)
-      - [구축함 주포의 피트보정(12.7cm연장포A형改3/B형改4)](http://gall.dcinside.com/kancolle/7644668)
-      - [구축함 어뢰의 피트보정](http://gall.dcinside.com/kancolle/7644869)
-   10. [대육상 공격 특공배율에 대해서](http://gall.dcinside.com/kancolle/7407925)
+   6. [대잠공격계산의 기본과 계산식 등](http://gall.dcinside.com/kancolle/6509761)
+      - [대잠 시너지 계산 관련](http://gall.dcinside.com/kancolle/7339275)
+   7. [대육상 공격 특공배율에 대해서](http://gall.dcinside.com/kancolle/7407925)
+   8. 피트보정
+       1. 전함/순양함
+           - [전함/순양함의 피트 포와 과적에 대해](http://gall.dcinside.com/kancolle/6860296)
+           - [전함의 대구경주포 피트보정에 대해서](http://gall.dcinside.com/kancolle/6989269)
+           - [전함 피트포의 보충](http://gall.dcinside.com/kancolle/6989372)
+           - [순양함주포 피트 보정](http://gall.dcinside.com/kancolle/6762174)
+       2. 구축함
+          - [구축함 주포의 피트보정과 운용](http://gall.dcinside.com/kancolle/7644544)
+          - [구축함 주포의 피트보정 (12.7cm연장포A형改3/B형改4)](http://gall.dcinside.com/kancolle/7644668)
+          - [구축함 어뢰의 피트보정](http://gall.dcinside.com/kancolle/7644869)
 
 3. 대공, 함재기
    1. [**대공**(함대방공, 대공컷인)에 대해서](http://gall.dcinside.com/kancolle/4136381)
@@ -190,14 +213,13 @@
    1. [기지항공대 소개 (18.02.12)](http://gall.dcinside.com/kancolle/6854289)
    2. [기지항공대 제공권 계산식 (+정찰기 효과)](http://gall.dcinside.com/kancolle/4631140)
       - [기지항공대용 전투기(국지전투기, 육상전투기) 소개](http://gall.dcinside.com/kancolle/5671456)
-        - [기지항공대용 전투기 성능 정리 (18.10.14)](http://gall.dcinside.com/kancolle/7746638)
+      - [기지항공대용 전투기 성능 정리 (18.10.14)](http://gall.dcinside.com/kancolle/7746638)
       - [기지항공대 제공치+행동반경 계산기](http://gall.dcinside.com/kancolle/4989097)
       - [기지항공대 출격/방공 제공치 조견표 (18.02.28)](http://gall.dcinside.com/kancolle/6936293)
    3. [기지항공대 출격/배치 소비 자원 조견표 (17.12.14)](http://gall.dcinside.com/kancolle/6655815)
    4. [기지항공대의 공격기 성능 정리](http://gall.dcinside.com/kancolle/6256524)
    5. [기지항공대의 피격추 정리](http://gall.dcinside.com/kancolle/6256790)
-   6. [국지전투기 스펙 정리](http://gall.dcinside.com/kancolle/6163795)
-   7. [공습시의 각 기지항공대의 상황와 피해의 관계](http://gall.dcinside.com/kancolle/6468543)
+   6. [공습시의 각 기지항공대의 상황와 피해의 관계](http://gall.dcinside.com/kancolle/6468543)
 
 5. 지원함대
    1. [(구) 지원함대 개요](http://gall.dcinside.com/kancolle/274163)
@@ -213,20 +235,8 @@
       - [연습전 경험치 계산기](http://swaytwig.com/#calc)
 
 7. 계산과 검증
-   1. [~~명중(**피트**)~~, 회피, 컷인확률 (16.08.29)](http://gall.dcinside.com/kancolle/4664388)
-      - [어뢰 컷인 계산기](http://gall.dcinside.com/kancolle/4654754)
-   2. [전함/순양함의 피트 포와 과적에 대해](http://gall.dcinside.com/kancolle/6860296)
-      - [전함의 대구경주포 피트보정에 대해서](http://gall.dcinside.com/kancolle/6989269)
-      - [전함 피트포의 보충](http://gall.dcinside.com/kancolle/6989372)
-       - [순양함주포 피트 보정](http://gall.dcinside.com/kancolle/6762174)
-   3. [**데미지** 계산법 (16.09.03)](http://gall.dcinside.com/kancolle/4664391)
-      - [대잠공격계산의 기본과 계산식 등](http://gall.dcinside.com/kancolle/6509761)
-       - [대잠 시너지 계산 관련](http://gall.dcinside.com/kancolle/7339275)
-   4. [**색적**, 기타 검증 (16.08.29)](http://gall.dcinside.com/kancolle/4664387)
-   5. **운작**
-      - [마루유 갯수별 운 상승치 기대값 계산](http://gall.dcinside.com/kancolle/4573887)
-      - [운작 우선순위, 추천 칸무스](http://gall.dcinside.com/kancolle/5444115)
-        - [운작에 의한 명중률, 회피율의 상승](http://gall.dcinside.com/kancolle/7021864)
+   1. [**데미지** 계산법 (16.09.03)](http://gall.dcinside.com/kancolle/4664391)
+   2. [**색적**, 기타 검증 (16.08.29)](http://gall.dcinside.com/kancolle/4664387)
 
 #### 2-2. 🛠 강화 : 개발, 건조, 개수
 1. 개발
@@ -277,10 +287,9 @@
 - ※ 위 해역의 정보만 보시면 됩니다.
 ```
 - [칸코레 리뉴얼된 해역들 알고 있는 정보 + 간증](http://gall.dcinside.com/kancolle/7529355)
-
-- [1~5해역공략 재탕](http://gall.dcinside.com/kancolle/2324598)
-- [해역별 제공수치 표 (1)](http://gall.dcinside.com/kancolle/478975)
-- [해역별 제공수치 표 (2)](http://gall.dcinside.com/kancolle/2016058)
+- ~~[1~5해역공략 재탕](http://gall.dcinside.com/kancolle/2324598)~
+- ~~[해역별 제공수치 표 (1)](http://gall.dcinside.com/kancolle/478975)~~
+- ~~[해역별 제공수치 표 (2)](http://gall.dcinside.com/kancolle/2016058)~~
 - [출격 해역명, 작전명, 작전내용 정리+번역](http://gall.dcinside.com/kancolle/7539631)
 
 * **EO** : [**전체가이드**](http://gall.dcinside.com/kancolle/6474457)
@@ -323,8 +332,8 @@
 
 #### 3-0. 랭작
 - [**랭작 : 전과점수**의 기본 개념](http://gall.dcinside.com/kancolle/3608405)
-- [5-4 윗길 랭작 하는 방법](http://gall.dcinside.com/kancolle/3273048)
-- [5-4 랭작 노하우와 팁](http://gall.dcinside.com/kancolle/3497831)
+- ~~[5-4 윗길 랭작 하는 방법](http://gall.dcinside.com/kancolle/3273048)~~
+- ~~[5-4 랭작 노하우와 팁](http://gall.dcinside.com/kancolle/3497831)~~
 - [전과기지 (서버별 전과 추이 등)](https://senka.com.ru/)
 
 ## 4. 📟 계산 사이트
@@ -340,8 +349,4 @@
 4. [칸코레 계정 일본 옥션 거래 후기 및 팁](http://gall.dcinside.com/kancolle/4493595)
 5. [2차대전 침몰한 일본함 위치 구글맵](http://gall.dcinside.com/kancolle/6675470)
 6. [깡비타 시스템 해석 문서 (일어)](https://docs.google.com/document/d/1tqYyqzdc1RT_fYDKFMcUId0kOZHCdGpVsObm6yt-Yco)
-7. 경계진 관련
-   - [2018 겨울 ①](http://gall.dcinside.com/kancolle/6983085)
-   - [2018 겨울 ②](http://gall.dcinside.com/kancolle/6960578)
-   - [2018 겨울 ③](http://gall.dcinside.com/kancolle/7028788)
-8. ~~2016.08 이후로 공지에서 내린 글 목록 (2017.03.01)~~
+7. ~~2016.08 이후로 공지에서 내린 글 목록 (2017.03.01)~~
