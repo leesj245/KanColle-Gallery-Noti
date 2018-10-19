@@ -6,124 +6,124 @@
 		"api_id": 221,
 		"api_map_bgm": [1, 1],
 		"api_maparea_id": 22,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 1
 	}, {
 		"api_boss_bgm": [2, 2],
 		"api_id": 222,
 		"api_map_bgm": [1, 1],
 		"api_maparea_id": 22,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 2
 	}, {
 		"api_boss_bgm": [2, 2],
 		"api_id": 223,
 		"api_map_bgm": [1, 1],
 		"api_maparea_id": 22,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 3
 	}, {
 		"api_boss_bgm": [2, 2],
 		"api_id": 224,
 		"api_map_bgm": [1, 1],
 		"api_maparea_id": 22,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 4
 	},
 
 	{
 		"note": "2013 summer: [23] Southern Waters Assault Reconnaissance",
 
-		"api_boss_bgm": [10003, 10003],
+		"api_boss_bgm": [21, 21],
 		"api_id": 231,
 		"api_map_bgm": [3, 3],
 		"api_maparea_id": 23,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 1
 	}, {
-		"api_boss_bgm": [10003, 10003],
+		"api_boss_bgm": [21, 21],
 		"api_id": 232,
 		"api_map_bgm": [3, 3],
 		"api_maparea_id": 23,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 2
 	}, {
-		"api_boss_bgm": [10003, 10003],
+		"api_boss_bgm": [21, 21],
 		"api_id": 233,
 		"api_map_bgm": [3, 3],
 		"api_maparea_id": 23,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 3
 	}, {
-		"api_boss_bgm": [10003, 10003],
+		"api_boss_bgm": [21, 21],
 		"api_id": 234,
 		"api_map_bgm": [3, 3],
 		"api_maparea_id": 23,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 4
 	},
 
 	{
 		"note": "2013 fall: [24] Decisive Battle! Break Through the Iron Bottom Sound!",
 
-		"api_boss_bgm": [10003, 10003],
+		"api_boss_bgm": [21, 21],
 		"api_id": 241,
 		"api_map_bgm": [3, 3],
 		"api_maparea_id": 24,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 1
 	}, {
 		"api_boss_bgm": [3, 3],
 		"api_id": 242,
 		"api_map_bgm": [22, 22],
 		"api_maparea_id": 24,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 2
 	}, {
-		"api_boss_bgm": [10003, 10003],
+		"api_boss_bgm": [21, 21],
 		"api_id": 243,
 		"api_map_bgm": [3, 3],
 		"api_maparea_id": 24,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 3
 	}, {
 		"api_boss_bgm": [3, 3],
 		"api_id": 244,
 		"api_map_bgm": [22, 22],
 		"api_maparea_id": 24,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 4
 	}, {
-		"api_boss_bgm": [10003, 10003],
+		"api_boss_bgm": [21, 21],
 		"api_id": 245,
 		"api_map_bgm": [22, 22],
 		"api_maparea_id": 24,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 5
 	},
 
 	{
 		"note": "2013 winter: [25] Assault! Fleet of Fog",
 
-		"api_boss_bgm": [20001, 20001],
+		"api_boss_bgm": ["E1", "E1"],
 		"api_id": 251,
 		"api_map_bgm": [29, 29],
 		"api_maparea_id": 25,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 1
 	}, {
-		"api_boss_bgm": [20001, 20001],
+		"api_boss_bgm": ["E1", "E1"],
 		"api_id": 252,
 		"api_map_bgm": [29, 29],
 		"api_maparea_id": 25,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 2
 	}, {
-		"api_boss_bgm": [20001, 20001],
+		"api_boss_bgm": ["E1", "E1"],
 		"api_id": 253,
 		"api_map_bgm": [29, 29],
 		"api_maparea_id": 25,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 3
 	},
 
@@ -134,81 +134,680 @@
 		"api_id": 261,
 		"api_map_bgm": [8, 8],
 		"api_maparea_id": 26,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 1
 	}, {
 		"api_boss_bgm": [9, 9],
 		"api_id": 262,
 		"api_map_bgm": [8, 8],
 		"api_maparea_id": 26,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 2
 	}, {
 		"api_boss_bgm": [9, 9],
 		"api_id": 263,
 		"api_map_bgm": [8, 8],
 		"api_maparea_id": 26,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 3
 	}, {
 		"api_boss_bgm": [9, 9],
 		"api_id": 264,
 		"api_map_bgm": [10, 10],
 		"api_maparea_id": 26,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 4
 	}, {
 		"api_boss_bgm": [9, 9],
 		"api_id": 265,
 		"api_map_bgm": [10, 10],
 		"api_maparea_id": 26,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": "103",
 		"api_no": 5
 	},
 
 	{
-		"note": "2015 spring: [27] Operation AL/MI",
+		"note": "2014 summer: [27] Commence Operation AL/MI!",
 
 		"api_boss_bgm": [15, 15],
 		"api_id": 271,
 		"api_map_bgm": [14, 14],
 		"api_maparea_id": 27,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": 18,
 		"api_no": 1
 	}, {
 		"api_boss_bgm": [15, 15],
 		"api_id": 272,
 		"api_map_bgm": [14, 14],
 		"api_maparea_id": 27,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": 18,
 		"api_no": 2
 	}, {
 		"api_boss_bgm": [17, 17],
 		"api_id": 273,
 		"api_map_bgm": [16, 16],
 		"api_maparea_id": 27,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": 18,
 		"api_no": 3
 	}, {
 		"api_boss_bgm": [17, 17],
 		"api_id": 274,
 		"api_map_bgm": [16, 16],
 		"api_maparea_id": 27,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": 18,
 		"api_no": 4
 	}, {
 		"api_boss_bgm": [17, 17],
 		"api_id": 275,
 		"api_map_bgm": [12, 12],
 		"api_maparea_id": 27,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": 18,
 		"api_no": 5
 	}, {
 		"api_boss_bgm": [17, 17],
 		"api_id": 276,
 		"api_map_bgm": [16, 16],
 		"api_maparea_id": 27,
-		"api_moving_bgm": 30103,
+		"api_moving_bgm": 18,
 		"api_no": 6
+	},
+
+	{
+		"note": "2014 fall: [28] Commence Operation Kon!",
+
+		"api_boss_bgm": [28, 28],
+		"api_id": 281,
+		"api_map_bgm": [27, 27],
+		"api_maparea_id": 28,
+		"api_moving_bgm": "103",
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [28, 28],
+		"api_id": 282,
+		"api_map_bgm": [27, 27],
+		"api_maparea_id": 28,
+		"api_moving_bgm": "103",
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [26, 26],
+		"api_id": 283,
+		"api_map_bgm": [25, 25],
+		"api_maparea_id": 28,
+		"api_moving_bgm": "103",
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [26, 26],
+		"api_id": 284,
+		"api_map_bgm": [25, 25],
+		"api_maparea_id": 28,
+		"api_moving_bgm": "103",
+		"api_no": 4
+	},
+
+	{
+		"note": "2014 winter: [29] Counter-attack! Assault on Truk Anchorage",
+
+		"api_boss_bgm": [32, 32],
+		"api_id": 291,
+		"api_map_bgm": [30, 30],
+		"api_maparea_id": 29,
+		"api_moving_bgm": "103",
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [33, 33],
+		"api_id": 292,
+		"api_map_bgm": [30, 30],
+		"api_maparea_id": 29,
+		"api_moving_bgm": "103",
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [34, 34],
+		"api_id": 293,
+		"api_map_bgm": [30, 30],
+		"api_maparea_id": 29,
+		"api_moving_bgm": "103",
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [35, 35],
+		"api_id": 294,
+		"api_map_bgm": [31, 31],
+		"api_maparea_id": 29,
+		"api_moving_bgm": "103",
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [36, 36],
+		"api_id": 295,
+		"api_map_bgm": [31, 31],
+		"api_maparea_id": 29,
+		"api_moving_bgm": "103",
+		"api_no": 5
+	},
+
+	{
+		"note": "2015 spring: [30] Order! 11th Battle Operation",
+
+		"api_boss_bgm": [39, 39],
+		"api_id": 301,
+		"api_map_bgm": [38, 38],
+		"api_maparea_id": 30,
+		"api_moving_bgm": 42,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [39, 39],
+		"api_id": 302,
+		"api_map_bgm": [38, 38],
+		"api_maparea_id": 30,
+		"api_moving_bgm": 42,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [39, 39],
+		"api_id": 303,
+		"api_map_bgm": [38, 38],
+		"api_maparea_id": 30,
+		"api_moving_bgm": 42,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [39, 39],
+		"api_id": 304,
+		"api_map_bgm": [38, 38],
+		"api_maparea_id": 30,
+		"api_moving_bgm": 42,
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [41, 41],
+		"api_id": 305,
+		"api_map_bgm": [40, 40],
+		"api_maparea_id": 30,
+		"api_moving_bgm": 43,
+		"api_no": 5
+	}, {
+		"api_boss_bgm": [41, 41],
+		"api_id": 306,
+		"api_map_bgm": [40, 40],
+		"api_maparea_id": 30,
+		"api_moving_bgm": 43,
+		"api_no": 6
+	},
+
+	{
+		"note": "2015 summer: [31] Counterattack! The Second Operation SN",
+
+		"api_boss_bgm": [47, 47],
+		"api_id": 311,
+		"api_map_bgm": [46, 46],
+		"api_maparea_id": 31,
+		"api_moving_bgm": 45,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [47, 47],
+		"api_id": 312,
+		"api_map_bgm": [46, 46],
+		"api_maparea_id": 31,
+		"api_moving_bgm": 45,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [47, 3],
+		"api_id": 313,
+		"api_map_bgm": [46, 46],
+		"api_maparea_id": 31,
+		"api_moving_bgm": 45,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [22, 5],
+		"api_id": 314,
+		"api_map_bgm": [46, 46],
+		"api_maparea_id": 31,
+		"api_moving_bgm": 45,
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [40, 40],
+		"api_id": 315,
+		"api_map_bgm": [38, 38],
+		"api_maparea_id": 31,
+		"api_moving_bgm": 48,
+		"api_no": 5
+	}, {
+		"api_boss_bgm": [50, 50],
+		"api_id": 316,
+		"api_map_bgm": [49, 49],
+		"api_maparea_id": 31,
+		"api_moving_bgm": 48,
+		"api_no": 6
+	}, {
+		"api_boss_bgm": [50, 50],
+		"api_id": 317,
+		"api_map_bgm": [49, 49],
+		"api_maparea_id": 31,
+		"api_moving_bgm": 48,
+		"api_no": 7
+	},
+
+	{
+		"note": "2015 fall: [32] Charge! Maritime Transport Operation!",
+
+		"api_boss_bgm": [53, 53],
+		"api_id": 321,
+		"api_map_bgm": [52, 52],
+		"api_maparea_id": 32,
+		"api_moving_bgm": 51,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [5, 5],
+		"api_id": 322,
+		"api_map_bgm": [4, 5],
+		"api_maparea_id": 32,
+		"api_moving_bgm": 51,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [53, 53],
+		"api_id": 323,
+		"api_map_bgm": [52, 52],
+		"api_maparea_id": 32,
+		"api_moving_bgm": 51,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [53, 53],
+		"api_id": 324,
+		"api_map_bgm": [39, 39],
+		"api_maparea_id": 32,
+		"api_moving_bgm": 42,
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [55, 55],
+		"api_id": 325,
+		"api_map_bgm": [52, 52],
+		"api_maparea_id": 32,
+		"api_moving_bgm": 51,
+		"api_no": 5
+	},
+
+	{
+		"note": "2015 winter: [33] Sortie! Operation Rei-Gō",
+
+		"api_boss_bgm": [59, 59],
+		"api_id": 331,
+		"api_map_bgm": [58, 58],
+		"api_maparea_id": 33,
+		"api_moving_bgm": 57,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [59, 59],
+		"api_id": 332,
+		"api_map_bgm": [58, 58],
+		"api_maparea_id": 33,
+		"api_moving_bgm": 57,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [59, 59],
+		"api_id": 333,
+		"api_map_bgm": [60, 60],
+		"api_maparea_id": 33,
+		"api_moving_bgm": 57,
+		"api_no": 3
+	},
+
+	{
+		"note": "2016 spring: [34] Establish! The Land Base Air Corps",
+
+		"api_boss_bgm": [62, 62],
+		"api_id": 341,
+		"api_map_bgm": [61, 61],
+		"api_maparea_id": 34,
+		"api_moving_bgm": 65,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [62, 62],
+		"api_id": 342,
+		"api_map_bgm": [61, 61],
+		"api_maparea_id": 34,
+		"api_moving_bgm": 65,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [62, 62],
+		"api_id": 343,
+		"api_map_bgm": [61, 61],
+		"api_maparea_id": 34,
+		"api_moving_bgm": 65,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [67, 67],
+		"api_id": 344,
+		"api_map_bgm": [63, 63],
+		"api_maparea_id": 34,
+		"api_moving_bgm": 65,
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [67, 67],
+		"api_id": 345,
+		"api_map_bgm": [62, 62],
+		"api_maparea_id": 34,
+		"api_moving_bgm": 66,
+		"api_no": 5
+	}, {
+		"api_boss_bgm": [68, 68],
+		"api_id": 346,
+		"api_map_bgm": [64, 64],
+		"api_maparea_id": 34,
+		"api_moving_bgm": 66,
+		"api_no": 6
+	}, {
+		"api_boss_bgm": [68, 68],
+		"api_id": 347,
+		"api_map_bgm": [64, 64],
+		"api_maparea_id": 34,
+		"api_moving_bgm": 66,
+		"api_no": 7
+	},
+
+	{
+		"note": "2016 summer: [35] Intercept! The 2nd Naval Battle of Malaya",
+
+		"api_boss_bgm": [71, 71],
+		"api_id": 351,
+		"api_map_bgm": [70, 70],
+		"api_maparea_id": 35,
+		"api_moving_bgm": 69,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [72, 72],
+		"api_id": 352,
+		"api_map_bgm": [71, 71],
+		"api_maparea_id": 35,
+		"api_moving_bgm": 69,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [72, 72],
+		"api_id": 353,
+		"api_map_bgm": [71, 71],
+		"api_maparea_id": 35,
+		"api_moving_bgm": 69,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [73, 73],
+		"api_id": 354,
+		"api_map_bgm": [72, 72],
+		"api_maparea_id": 35,
+		"api_moving_bgm": 69,
+		"api_no": 4
+	},
+
+	{
+		"note": "2016 fall: [36] Proclamation! Fleet Strategy Plan #3!",
+
+		"api_boss_bgm": [81, 81],
+		"api_id": 361,
+		"api_map_bgm": [80, 80],
+		"api_maparea_id": 36,
+		"api_moving_bgm": 78,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [81, 81],
+		"api_id": 362,
+		"api_map_bgm": [80, 80],
+		"api_maparea_id": 36,
+		"api_moving_bgm": 78,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [81, 81],
+		"api_id": 363,
+		"api_map_bgm": [80, 80],
+		"api_maparea_id": 36,
+		"api_moving_bgm": 78,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [81, 81],
+		"api_id": 364,
+		"api_map_bgm": [80, 80],
+		"api_maparea_id": 36,
+		"api_moving_bgm": 79,
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [82, 82],
+		"api_id": 365,
+		"api_map_bgm": [81, 81],
+		"api_maparea_id": 36,
+		"api_moving_bgm": 79,
+		"api_no": 5
+	},
+
+	{
+		"note": "2016 winter: [37] Operation 'Hikari', the Emergency Deployment of the Reconnaissance Force!",
+
+		"api_boss_bgm": [87, 87],
+		"api_id": 371,
+		"api_map_bgm": [87, 87],
+		"api_maparea_id": 37,
+		"api_moving_bgm": 86,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [88, 88],
+		"api_id": 372,
+		"api_map_bgm": [87, 87],
+		"api_maparea_id": 37,
+		"api_moving_bgm": 86,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [89, 89],
+		"api_id": 373,
+		"api_map_bgm": [88, 88],
+		"api_maparea_id": 37,
+		"api_moving_bgm": 86,
+		"api_no": 3
+	},
+
+	{
+		"note": "2017 spring: [38] Sortie! 5th Fleet to the Northeast",
+
+		"api_boss_bgm": [92, 92],
+		"api_id": 381,
+		"api_map_bgm": [91, 91],
+		"api_maparea_id": 38,
+		"api_moving_bgm": 90,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [92, 92],
+		"api_id": 382,
+		"api_map_bgm": [91, 91],
+		"api_maparea_id": 38,
+		"api_moving_bgm": 90,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [92, 92],
+		"api_id": 383,
+		"api_map_bgm": [11, 11],
+		"api_maparea_id": 38,
+		"api_moving_bgm": 90,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [19, 19],
+		"api_id": 384,
+		"api_map_bgm": [92, 92],
+		"api_maparea_id": 38,
+		"api_moving_bgm": 90,
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [93, 93],
+		"api_id": 385,
+		"api_map_bgm": [19, 19],
+		"api_maparea_id": 38,
+		"api_moving_bgm": 90,
+		"api_no": 5
+	},
+
+	{
+		"note": "2017 summer: [39] Recross-through the West! Europe Rescue Operation",
+
+		"api_boss_bgm": [96, 96],
+		"api_id": 391,
+		"api_map_bgm": [95, 95],
+		"api_maparea_id": 39,
+		"api_moving_bgm": 95,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [97, 97],
+		"api_id": 392,
+		"api_map_bgm": [96, 96],
+		"api_maparea_id": 39,
+		"api_moving_bgm": 95,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [97, 97],
+		"api_id": 393,
+		"api_map_bgm": [96, 96],
+		"api_maparea_id": 39,
+		"api_moving_bgm": 95,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [99, 99],
+		"api_id": 394,
+		"api_map_bgm": [98, 98],
+		"api_maparea_id": 39,
+		"api_moving_bgm": 95,
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [99, 99],
+		"api_id": 395,
+		"api_map_bgm": [97, 97],
+		"api_maparea_id": 39,
+		"api_moving_bgm": 98,
+		"api_no": 5
+	}, {
+		"api_boss_bgm": [99, 99],
+		"api_id": 396,
+		"api_map_bgm": [97, 97],
+		"api_maparea_id": 39,
+		"api_moving_bgm": 98,
+		"api_no": 6
+	}, {
+		"api_boss_bgm": [100, 100],
+		"api_id": 397,
+		"api_map_bgm": [99, 99],
+		"api_maparea_id": 39,
+		"api_moving_bgm": 98,
+		"api_no": 7
+	},
+
+	{
+		"note": "2017 fall: [40] Showdown at Operation Shō-Gō! Battle of Leyte Gulf (Part 1)",
+
+		"api_boss_bgm": [105, 105],
+		"api_id": 401,
+		"api_map_bgm": [104, 104],
+		"api_maparea_id": 40,
+		"api_moving_bgm": 103,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [105, 105],
+		"api_id": 402,
+		"api_map_bgm": [104, 104],
+		"api_maparea_id": 40,
+		"api_moving_bgm": 103,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [105, 105],
+		"api_id": 403,
+		"api_map_bgm": [104, 104],
+		"api_maparea_id": 40,
+		"api_moving_bgm": 106,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [107, 107],
+		"api_id": 404,
+		"api_map_bgm": [105, 105],
+		"api_maparea_id": 40,
+		"api_moving_bgm": 106,
+		"api_no": 4
+	},
+
+	{
+		"note": "2017 winter: [41] Showdown at Operation Shō-Gō! Battle of Leyte Gulf (Part 2)",
+
+		"api_boss_bgm": [111, 111],
+		"api_id": 411,
+		"api_map_bgm": [110, 110],
+		"api_maparea_id": 41,
+		"api_moving_bgm": 109,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [111, 111],
+		"api_id": 412,
+		"api_map_bgm": [110, 110],
+		"api_maparea_id": 41,
+		"api_moving_bgm": 109,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [111, 111],
+		"api_id": 413,
+		"api_map_bgm": [110, 110],
+		"api_maparea_id": 41,
+		"api_moving_bgm": 109,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [113, 113],
+		"api_id": 414,
+		"api_map_bgm": [111, 111],
+		"api_maparea_id": 41,
+		"api_moving_bgm": 109,
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [114, 114],
+		"api_id": 415,
+		"api_map_bgm": [111, 111],
+		"api_maparea_id": 41,
+		"api_moving_bgm": 112,
+		"api_no": 5
+	}, {
+		"api_boss_bgm": [113, 113],
+		"api_id": 416,
+		"api_map_bgm": [114, 114],
+		"api_maparea_id": 41,
+		"api_moving_bgm": 112,
+		"api_no": 6
+	}, {
+		"api_boss_bgm": [115, 115],
+		"api_id": 417,
+		"api_map_bgm": [114, 114],
+		"api_maparea_id": 41,
+		"api_moving_bgm": 112,
+	"api_no": 7
+	},
+
+	{
+		"note": "2018 fall: [42] Weigh Anchor! Combined Fleet, to the West!",
+
+		"api_boss_bgm": [121, 121],
+		"api_id": 421,
+		"api_map_bgm": [120, 120],
+		"api_maparea_id": 42,
+		"api_moving_bgm": 119,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [121, 121],
+		"api_id": 422,
+		"api_map_bgm": [120, 120],
+		"api_maparea_id": 42,
+		"api_moving_bgm": 119,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [123, 123],
+		"api_id": 423,
+		"api_map_bgm": [120, 120],
+		"api_maparea_id": 42,
+		"api_moving_bgm": 119,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [99, 99],
+		"api_id": 424,
+		"api_map_bgm": [123, 123],
+		"api_maparea_id": 42,
+		"api_moving_bgm": 122,
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [124, 124],
+		"api_id": 425,
+		"api_map_bgm": [123, 123],
+		"api_maparea_id": 42,
+		"api_moving_bgm": 122,
+		"api_no": 5
 	}
 ]

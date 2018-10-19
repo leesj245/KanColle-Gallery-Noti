@@ -5,7 +5,7 @@ body {
 	margin: 0;
 	padding: 0;
 	height: 100%;
-	background-color: #f4f4f4;
+	background-color: #ebebeb;
 	font-size: 14px;
 	overflow: hidden;
 }
@@ -61,6 +61,7 @@ aside.navigator #navigator_list > li a::before {
 	padding: 1em;
 	max-width: 100%;
 	border-top: 1px solid #d0d0d0;
+	background-color: #373739;
 }
 .player_wrapper audio {
 	display: block;
@@ -167,7 +168,7 @@ audio::-webkit-media-controls-enclosure {
 	display: grid;
 	padding: 10px;
 	width: 100%;
-	background-color: #fcfcfc;
+	background-color: #f9f9f9;
 }
 .bgm-table > div {
 	display: flex;

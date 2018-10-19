@@ -1,8 +1,17 @@
 "use strict";
 !function(){
-	const host = "203.104.209.183";
 	const key_table = [6657, 5699, 3371, 8909, 7719, 6229, 5449, 8561, 2987, 5501, 3127, 9319, 4365, 9811, 9927, 2423, 3439, 1865, 5925, 4409, 5509, 1517, 9695, 9255, 5325, 3691, 5519, 6949, 5607, 9539, 4133, 7795, 5465, 2659, 6381, 6875, 4019, 9195, 5645, 2887, 1213, 1815, 8671, 3015, 3147, 2991, 7977, 7045, 1619, 7909, 4451, 6573, 4545, 8251, 5983, 2849, 7249, 7449, 9477, 5963, 2711, 9019, 7375, 2201, 5631, 4893, 7653, 3719, 8819, 5839, 1853, 9843, 9119, 7023, 5681, 2345, 9873, 6349, 9315, 3795, 9737, 4633, 4173, 7549, 7171, 6147, 4723, 5039, 2723, 7815, 6201, 5999, 5339, 4431, 2911, 4435, 3611, 4423, 9517, 3243];
 	const bgm_usage = [];
+
+	Array.prototype.groupBy = function(keySelector){
+		const result = {};
+		this.forEach(function(_){
+			const key = keySelector(_);
+			if( !(key in result) ) result[key] = [];
+			result[key].push(_);
+		});
+		return result;
+	};
 
 	const player = document.querySelector(".bgm-player > audio");
 	player.volume = 0.5; // Default value
@@ -15,6 +24,8 @@
 		target.querySelector(".bgm-origin").innerHTML = elem.querySelector(".bgm-origin").innerHTML;
 	}
 	const playBGM = function(elem){
+		const host = "http://203.104.209.183/kcs2/resources/bgm/{type}/{filename}.mp3";
+		const localhost = "./local/{type}.{filename}.mp3";
 		const getPostfixKey = function(type){
 			let k = 0;
 			if(type !== null && type !== ""){
@@ -33,10 +44,21 @@
 		else
 			id = parseInt(id.substr(1));
 
-		let type = "";
+		let _host = host, type = "";
 		switch(_id[0]){
+			case 'f':
+				type = 'fanfare';
+				break;
 			case 'b':
 				type = 'battle';
+				break;
+			case 'B':
+				_host = localhost;
+				type = 'battle';
+				break;
+			case 'd':
+				_host = localhost;
+				type = 'deprecated';
 				break;
 			default:
 				type = "port";
@@ -46,7 +68,9 @@
 		const key_length = ("bgm_"+type).length;
 		const postfix_key = getPostfixKey("bgm_"+type);
 		const postfix = (17 * (id + 7) * key_table[(postfix_key + id * key_length) % 100] % 8973 + 1000)
-		const url = "http://" + host + "/kcs2/resources/bgm/" + type + "/"+ ("00"+id).substr(-3) + "_" + postfix + ".mp3";
+		const url = _host
+			.replace("{type}", type)
+			.replace("{filename}", ("00"+id).substr(-3) + "_" + postfix);
 
 		player.src = url;
 		player.play();
@@ -86,6 +110,17 @@
 	};
 
 	const updateLocale = function(){
+		const getMapName = function(world, map, detailed){
+			if(detailed){
+				if(world > 20){
+					return getLocale("world"+world, "tr") + " E-" + map;
+				}else{
+					return world + "-" + map;
+				}
+			}else{
+				return (world > 20 ? "E" : world) + "-" + map;
+			}
+		};
 		const mapJoin = function(array){
 			if(array===null || array.length===0) return array;
 
@@ -95,24 +130,28 @@
 			for(i=1; i<array.length; i++){
 				if((array[i-1].world !== array[i].world) || (array[i-1].map+1 !== array[i].map)){
 					if( array[i-1].world===array[offset].world && array[i-1].map===array[offset].map ){
-						buffer.push( array[i-1].world+"-"+array[i-1].map );
+						buffer.push(
+							getMapName(array[i-1].world, array[i-1].map, true)
+						);
 					}else{
 						buffer.push(
-							array[offset].world+"-"+array[offset].map
+							getMapName(array[offset].world, array[offset].map, true)
 							+ "~"
-							+ array[i-1].world+"-"+array[i-1].map
+							+ getMapName(array[i-1].world, array[i-1].map, false)
 						);
 					}
 					offset = i;
 				}
 			}
 			if( array[i-1].world===array[offset].world && array[i-1].map===array[offset].map ){
-				buffer.push( array[i-1].world+"-"+array[i-1].map );
+				buffer.push(
+					getMapName(array[i-1].world, array[i-1].map, true)
+				);
 			}else{
 				buffer.push(
-					array[offset].world+"-"+array[offset].map
+					getMapName(array[offset].world, array[offset].map, true)
 					+ "~"
-					+ array[i-1].world+"-"+array[i-1].map
+					+ getMapName(array[i-1].world, array[i-1].map, false)
 				);
 			}
 			return buffer;
@@ -159,28 +198,32 @@
 					}
 				}
 
-				{
-					const listelem = item.querySelector('.bgm-desc-list[data-type="map"]');
-					if(listelem===null) continue;
+				const listelem = item.querySelector('.bgm-desc-list[data-type="map"]');
+				if(listelem===null) continue;
 
-					const subType = [
-						getLocale("battle_normal", "text"),
-						getLocale("battle_boss", "text")
-					];
-					const usage = bgm_usage.filter(x => x.id == id);
-					if(usage.length > 0){
-						{
-							const text = mapJoin(usage.filter(x => x.type==="map")).join(", ");
+				const subType = [
+					getLocale("battle_normal", "text"),
+					getLocale("battle_boss", "text")
+				];
+				const usage = bgm_usage.filter(x => x.id == id);
+				if(usage.length > 0){
+					{
+						const list = usage.filter(x => x.type==="map").groupBy(x => x.world<=20 ? "n" : x.world);
+						for(let _ in list){
+							const text = mapJoin(list[_]).join(", ");
 							if(text.length > 0){
 								const li = document.createElement("li");
 								li.innerHTML = text + " " + getLocale("battle_map", "text");
 								listelem.appendChild(li);
 							}
 						}
+					}
 
-						for(let j=0; j<4; j+=2){
-							const text1 = mapJoin(usage.filter(x => x.type==="battle" && x.sub==j)).join(", ");
-							const text2 = mapJoin(usage.filter(x => x.type==="battle" && x.sub==j+1)).join(", ");
+					for(let j=0; j<4; j+=2){
+						const list = usage.filter(x => x.type==="battle").groupBy(x => x.world<=20 ? "n" : x.world);
+						for(let _ in list){
+							const text1 = mapJoin(list[_].filter(x => x.sub === j)).join(", ");
+							const text2 = mapJoin(list[_].filter(x => x.sub === j+1)).join(", ");
 
 							if(text1.length > 0 && text1 === text2){
 								const li = document.createElement("li");
@@ -199,12 +242,36 @@
 								}
 							}
 						}
-					} // usage.length
-				}
+					}
+				} // usage.length
+			}
+		}
+
+		const elems = document.querySelectorAll("[data-format]");
+		for(let i=0; i<elems.length; i++){
+			let format = elems[i].getAttribute("data-format");
+			const postfix = elems[i].getAttribute("data-postfix");
+
+			format = format.replace(/\{([^\}]+)\}/g, function(match, capture){
+				const parts = capture.split(".");
+				const name = parts[0];
+				parts.splice(0, 1);
+				return getLocale(name, parts.join("."));
+			});
+			elems[i].innerHTML = format + postfix;
+
+			if(elems[i].id.length>0){
+				const anchors = document.querySelectorAll("a[href=\"#"+elems[i].id+"\"]");
+				for(let j=0; j<anchors.length; j++)
+					anchors[j].innerHTML = format;
 			}
 		}
 	};
 	const buildBGMCard = function(id, name, simpled){
+		const externalLinks = [
+			"",
+			"https://www.youtube.com/watch?v=D2uqpqrYmMY"
+		];
 		const template = document.querySelector(
 			simpled
 				? "#templates .bgm-wrapper-simple"
@@ -218,11 +285,30 @@
 		template.querySelector(".bgm-no").innerHTML = id;
 		template.querySelector(".bgm-origin").innerHTML = name;
 
-		(simpled ? template : itemElem).addEventListener("click", function(e){
-			e.preventDefault();
-			playBGM(itemElem);
-			return false;
-		});
+		const target = (simpled ? template : itemElem);
+		if(typeof id==="string" && id[0]==='E'){
+			target.addEventListener("click", function(e){
+				e.preventDefault();
+
+				var link = document.createElementNS("http://www.w3.org/1999/xhtml", "a");
+				link.href = externalLinks[id.substr(1)];
+				link.target = '_blank';
+				var event = new MouseEvent('click', {
+					'view': window,
+					'bubbles': false,
+					'cancelable': true
+				});
+				link.dispatchEvent(event);
+
+				return false;
+			});
+		}else{
+			target.addEventListener("click", function(e){
+				e.preventDefault();
+				playBGM(itemElem);
+				return false;
+			});
+		}
 		return template;
 	};
 
@@ -232,6 +318,13 @@
 		!function(){
 			const port = document.querySelector('[data-group="port"]');
 			if(!port) return;
+
+			jsonDatas.mst_bgm_placeholder.forEach(function(x){
+				if( jsonDatas.mst_bgm.filter(y => y.api_id === x.api_id).length>0 ) return;
+
+				jsonDatas.mst_bgm.push(x);
+			});
+			jsonDatas.mst_bgm.sort((a, b) => a.api_id - b.api_id);
 
 			for(let i=0; i<jsonDatas.mst_bgm.length; i++){
 				const item = jsonDatas.mst_bgm[i];
@@ -244,27 +337,20 @@
 
 		// mst_mapbgm
 		!function(){
-			const data = [];
 			const mst_mapdata = jsonDatas.mst_mapbgm.concat(jsonDatas.events);
 			bgm_usage.splice(0, bgm_usage.length);
 
 			// orderby, groupby
 			mst_mapdata.sort((a, b) => a.api_id - b.api_id);
-			for(let i=0; i<mst_mapdata.length; i++){
-				const key = mst_mapdata[i].api_maparea_id;
-				if(!Array.isArray(data[key]))
-					data[key] = [];
+			const data = mst_mapdata.groupBy(x => x.api_maparea_id);
 
-				data[key].push( mst_mapdata[i] );
-			}
-
-			// Normal words
 			for(let world in data){
-				if(world > 30) continue; // Exclude event maps here
+				let parent = document.querySelector('[data-group="battle"]');
+				if(parseInt(world)>20) parent = document.querySelector('[data-group="event'+world+'"]');
 
 				const template = document.querySelector("#templates .bgm-map-group").cloneNode(true);
 				template.setAttribute("data-world", world);
-				document.querySelector('[data-group="battle"]').appendChild(template);
+				parent.appendChild(template);
 
 				const maps = data[world].length;
 				const table = template.querySelector(".bgm-table");
@@ -272,7 +358,10 @@
 
 				const header = table.querySelector(".table-title");
 				header.style["grid-column"] = "1/"+(maps+2);
-				header.innerHTML = getLocale("world", "tr").replace("{0}", world) + ": " + getLocale("world"+world, "tr");
+				if(world>20)
+					header.innerHTML = getLocale("world"+world, "tr");
+				else
+					header.innerHTML = getLocale("world", "tr").replace("{0}", world) + ": " + getLocale("world"+world, "tr");
 
 				const moving_bgm = [];
 				!function(){
@@ -289,9 +378,8 @@
 					moving_bgm.push({ bgm:current, starts:offset, ends:maps-1 });
 
 					for(let i=0; i<moving_bgm.length; i++){
-						const prefix = Math.floor(moving_bgm[i].bgm/10000)===3 ? "" : "b";
-
-						const bgm = prefix+(moving_bgm[i].bgm%10000);
+						const prefix = (typeof moving_bgm[i].bgm==="number" ? "b" : "");
+						const bgm = prefix+moving_bgm[i].bgm;
 						const cell = document.createElement("div");
 						cell.style["grid-column"] = (moving_bgm[i].starts+2) + "/"  + (moving_bgm[i].ends+3);
 						cell.style["grid-row"] = "3 / 4";
@@ -326,15 +414,15 @@
 
 					const map_title = document.createElement("div");
 					map_title.className = "table-map";
-					map_title.innerHTML = world+"-"+map;
+					map_title.innerHTML = (world>20 ? "E" : world)+"-"+map;
 					map_title.style["grid-column"] = (i+2)+" / "+(i+3);
 					table.appendChild(map_title);
 
 					for(let j=0; j<4; j++){
 						if( maptable[i][j] === -1 ) continue; // Spanned
 						const cell = document.createElement("div");
-						const prefix = Math.floor(maptable[i][j]/10000)===3 ? "" : "b";
-						const bgm = maptable[i][j] % 10000;
+						const prefix = (typeof maptable[i][j]==="number" ? "b" : "");
+						const bgm = maptable[i][j];
 
 						let span_row = 1;
 						while( j+span_row<5 && bgm===maptable[i][j+span_row] ){
@@ -395,6 +483,20 @@
 			}
 		}();
 
+		// mst_deprecated
+		!function(){
+			const deprecated = document.querySelector('[data-group="deprecated"]');
+			if(!deprecated) return;
+
+			for(let i=0; i<jsonDatas.mst_deprecated.length; i++){
+				const item = jsonDatas.mst_deprecated[i];
+				const id = item.api_id;
+
+				const template = buildBGMCard(id, item.api_name, false);
+				deprecated.appendChild(template);
+			}
+		}();
+
 		updateLocale();
 	};
 
@@ -405,7 +507,9 @@
 		const jsonList = [
 			{ id: "mst_bgm", file: "api_mst_bgm.json" },
 			{ id: "mst_mapbgm", file: "api_mst_mapbgm.json" },
-			{ id: "events", file: "events.json", local: true }
+			{ id: "events", file: "events.json", local: true },
+			{ id: "mst_bgm_placeholder", file: "mst_bgm.json", local: true },
+			{ id: "mst_deprecated", file: "mst_deprecated.json", local: true }
 		];
 		let counter = 0;
 
