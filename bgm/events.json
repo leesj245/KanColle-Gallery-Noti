@@ -1,0 +1,214 @@
+[
+	{
+		"note": "2013 spring: [22] Break into the Enemy Anchorage!",
+
+		"api_boss_bgm": [2, 2],
+		"api_id": 221,
+		"api_map_bgm": [1, 1],
+		"api_maparea_id": 22,
+		"api_moving_bgm": 30103,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [2, 2],
+		"api_id": 222,
+		"api_map_bgm": [1, 1],
+		"api_maparea_id": 22,
+		"api_moving_bgm": 30103,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [2, 2],
+		"api_id": 223,
+		"api_map_bgm": [1, 1],
+		"api_maparea_id": 22,
+		"api_moving_bgm": 30103,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [2, 2],
+		"api_id": 224,
+		"api_map_bgm": [1, 1],
+		"api_maparea_id": 22,
+		"api_moving_bgm": 30103,
+		"api_no": 4
+	},
+
+	{
+		"note": "2013 summer: [23] Southern Waters Assault Reconnaissance",
+
+		"api_boss_bgm": [10003, 10003],
+		"api_id": 231,
+		"api_map_bgm": [3, 3],
+		"api_maparea_id": 23,
+		"api_moving_bgm": 30103,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [10003, 10003],
+		"api_id": 232,
+		"api_map_bgm": [3, 3],
+		"api_maparea_id": 23,
+		"api_moving_bgm": 30103,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [10003, 10003],
+		"api_id": 233,
+		"api_map_bgm": [3, 3],
+		"api_maparea_id": 23,
+		"api_moving_bgm": 30103,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [10003, 10003],
+		"api_id": 234,
+		"api_map_bgm": [3, 3],
+		"api_maparea_id": 23,
+		"api_moving_bgm": 30103,
+		"api_no": 4
+	},
+
+	{
+		"note": "2013 fall: [24] Decisive Battle! Break Through the Iron Bottom Sound!",
+
+		"api_boss_bgm": [10003, 10003],
+		"api_id": 241,
+		"api_map_bgm": [3, 3],
+		"api_maparea_id": 24,
+		"api_moving_bgm": 30103,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [3, 3],
+		"api_id": 242,
+		"api_map_bgm": [22, 22],
+		"api_maparea_id": 24,
+		"api_moving_bgm": 30103,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [10003, 10003],
+		"api_id": 243,
+		"api_map_bgm": [3, 3],
+		"api_maparea_id": 24,
+		"api_moving_bgm": 30103,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [3, 3],
+		"api_id": 244,
+		"api_map_bgm": [22, 22],
+		"api_maparea_id": 24,
+		"api_moving_bgm": 30103,
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [10003, 10003],
+		"api_id": 245,
+		"api_map_bgm": [22, 22],
+		"api_maparea_id": 24,
+		"api_moving_bgm": 30103,
+		"api_no": 5
+	},
+
+	{
+		"note": "2013 winter: [25] Assault! Fleet of Fog",
+
+		"api_boss_bgm": [20001, 20001],
+		"api_id": 251,
+		"api_map_bgm": [29, 29],
+		"api_maparea_id": 25,
+		"api_moving_bgm": 30103,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [20001, 20001],
+		"api_id": 252,
+		"api_map_bgm": [29, 29],
+		"api_maparea_id": 25,
+		"api_moving_bgm": 30103,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [20001, 20001],
+		"api_id": 253,
+		"api_map_bgm": [29, 29],
+		"api_maparea_id": 25,
+		"api_moving_bgm": 30103,
+		"api_no": 3
+	},
+
+	{
+		"note": "2014 spring: [26] Recon planes, launching!",
+
+		"api_boss_bgm": [9, 9],
+		"api_id": 261,
+		"api_map_bgm": [8, 8],
+		"api_maparea_id": 26,
+		"api_moving_bgm": 30103,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [9, 9],
+		"api_id": 262,
+		"api_map_bgm": [8, 8],
+		"api_maparea_id": 26,
+		"api_moving_bgm": 30103,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [9, 9],
+		"api_id": 263,
+		"api_map_bgm": [8, 8],
+		"api_maparea_id": 26,
+		"api_moving_bgm": 30103,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [9, 9],
+		"api_id": 264,
+		"api_map_bgm": [10, 10],
+		"api_maparea_id": 26,
+		"api_moving_bgm": 30103,
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [9, 9],
+		"api_id": 265,
+		"api_map_bgm": [10, 10],
+		"api_maparea_id": 26,
+		"api_moving_bgm": 30103,
+		"api_no": 5
+	},
+
+	{
+		"note": "2015 spring: [27] Operation AL/MI",
+
+		"api_boss_bgm": [15, 15],
+		"api_id": 271,
+		"api_map_bgm": [14, 14],
+		"api_maparea_id": 27,
+		"api_moving_bgm": 30103,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [15, 15],
+		"api_id": 272,
+		"api_map_bgm": [14, 14],
+		"api_maparea_id": 27,
+		"api_moving_bgm": 30103,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [17, 17],
+		"api_id": 273,
+		"api_map_bgm": [16, 16],
+		"api_maparea_id": 27,
+		"api_moving_bgm": 30103,
+		"api_no": 3
+	}, {
+		"api_boss_bgm": [17, 17],
+		"api_id": 274,
+		"api_map_bgm": [16, 16],
+		"api_maparea_id": 27,
+		"api_moving_bgm": 30103,
+		"api_no": 4
+	}, {
+		"api_boss_bgm": [17, 17],
+		"api_id": 275,
+		"api_map_bgm": [12, 12],
+		"api_maparea_id": 27,
+		"api_moving_bgm": 30103,
+		"api_no": 5
+	}, {
+		"api_boss_bgm": [17, 17],
+		"api_id": 276,
+		"api_map_bgm": [16, 16],
+		"api_maparea_id": 27,
+		"api_moving_bgm": 30103,
+		"api_no": 6
+	}
+]

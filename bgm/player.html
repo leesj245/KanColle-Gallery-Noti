@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes">
 <title>KanColle BGM Player</title>
+<link rel="stylesheet" type="text/css" href="player.css">
 </head>
 <body>
 <div class="main-container">
@@ -14,108 +15,25 @@
 		</div>
 
 		<div class="player_wrapper">
-			<div class="bgm-playing">
-				<span class="bgm-no">&nbsp;</span>
-				<div class="bgm-origin">&nbsp;</div>
-				<div class="bgm-title">&nbsp;</div>
-			</div>
-			<div class="bgm-player">
-				<audio class="bgm-player" controls volume="0.5"></audio>
+			<div class="bgm-playerbox">
+				<div class="bgm-playing">
+					<span class="bgm-no">&nbsp;</span>
+					<div class="bgm-origin">&nbsp;</div>
+					<div class="bgm-title">&nbsp;</div>
+				</div>
+				<div class="bgm-player">
+					<audio class="bgm-player" volume="0.5" controls></audio>
+				</div>
 			</div>
 		</div>
 	</aside>
 	<div class="contents">
 		<h2 class="group-name">모항/가구 BGM</h2>
-		<div class="group-content" data-group="port">
+		<div class="group-content group-bgm-list" data-group="port">
 		</div>
 
 		<h2 class="group-name">일반 전투 BGM</h2>
 		<div class="group-content" data-group="battle">
-			<div class="bgm-as-table">
-				<div class="bgm-table-cell">
-					<table class="bgm-table bgm-6">
-							<thead>
-							<tr>
-								<th colspan="7">1해역: 진수부해역</th>
-							</tr>
-							<tr>
-								<th></th>
-								<th>1-1</th>
-								<th>1-2</th>
-								<th>1-3</th>
-								<th>1-4</th>
-								<th>1-5</th>
-								<th>1-6</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<th>주간전</th>
-								<td colspan="3"><div class="bgm-endpoint" data-id="b1"></div></td>
-								<td colspan="1"><div class="bgm-endpoint" data-id="b29"></div></td>
-								<td colspan="1"><div class="bgm-endpoint" data-id="b7"></div></td>
-								<td rowspan="2"><div class="bgm-endpoint" data-id="b37"></div></td>
-							</tr>
-							<tr>
-								<th>야전</th>
-								<td colspan="5"><div class="bgm-endpoint" data-id="b2"></div></td>
-							</tr>
-							<tr>
-								<th>보스 주간전</th>
-								<td colspan="2" rowspan="2"><div class="bgm-endpoint" data-id="b2"></div></td>
-								<td rowspan="2"><div class="bgm-endpoint" data-id="b77"></div></td>
-								<td rowspan="2"><div class="bgm-endpoint" data-id="b12"></div></td>
-								<td rowspan="2"><div class="bgm-endpoint" data-id="b13"></div></td>
-								<td rowspan="2">-</td>
-							</tr>
-							<tr>
-								<th>보스 야전</th>
-							</tr>
-						</tbody>
-					</table>
-				</div>
-			</div>
-			<div class="bgm-as-list">
-				<div class="bgm-item" data-id="b4">
-					<span class="bgm-no">b4</span>
-					<div class="bgm-origin">二水戦の航跡</div>
-					<div class="bgm-title">2수전의 항적</div>
-					<div class="bgm-desc">
-						<span class="bgm-desc-text" data-content>전투 BGM</span>
-						<ul class="bgm-desc-list">
-							<li>5-4, 5-5 도중 주간전</li>
-							<li>3-4, 4-4, 6-4 도중 야전, 2-4, 3-4, 6-4 보스 주간전</li>
-							<li>2015 가을 『돌입! 해상수송작전』 E-2 도중 주간전</li>
-						</ul>
-					</div>
-				</div>
-				<div class="bgm-item" data-id="b5">
-					<span class="bgm-no">b5</span>
-					<div class="bgm-origin">次発装填、再突入！</div>
-					<div class="bgm-title">차발 장전, 재돌입!</div>
-					<div class="bgm-desc">
-						<span class="bgm-desc-text" data-content>전투 BGM</span>
-						<ul class="bgm-desc-list">
-							<li>5-5 도중 야전, 2-4, 3-4, 6-3 보스 야전, 5-3 보스전</li>
-							<li>2015 여름 『반격! 제2차 SN작전』 E-4 보스 야전, 2015 가을 『돌입! 해상수송작전』 E-2 도중 야전, 보스전</li>
-						</ul>
-					</div>
-				</div>
-				<div class="bgm-item" data-id="b8">
-					<span class="bgm-no">b8</span>
-					<div class="bgm-origin">索敵機、発艦始め！</div>
-					<div class="bgm-title">색적기,  이함개시!</div>
-					<div class="bgm-desc">
-						<span class="bgm-desc-text" data-content>전투 BGM</span>
-						<ul class="bgm-desc-list">
-							<li>3-3 도중 주간전</li>
-							<li>4-1 보스전</li>
-							<li>6-3 도중 주간전</li>
-							<li>2014 봄 『색적기, 이함개시!』 E-1 ~ E-3 도중전</li>
-						</ul>
-					</div>
-				</div>
-			</div>
 		</div>
 
 		<h2 class="group-name">2013 여름 「남방해역 강습정찰!」 BGM</h2>
@@ -2363,6 +2281,13 @@
 	</div>
 </div>
 <div id="templates">
+	<div class="bgm-wrapper-simple">
+		<div class="bgm-item" data-id="0">
+			<span class="bgm-no">0</span>
+			<div class="bgm-origin">src</div>
+			<div class="bgm-title">tr</div>
+		</div>
+	</div>
 	<div class="bgm-wrapper">
 		<div class="bgm-item" data-id="0">
 			<span class="bgm-no">0</span>
@@ -2377,350 +2302,24 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="bgm-map-group">
+		<div class="bgm-table-box">
+			<div class="bgm-table-wrapper">
+				<div class="bgm-table">
+					<div class="table-title"></div>
+
+					<div class="table-row-head row-3">맵 화면</div>
+					<div class="table-row-head row-4">주간전</div>
+					<div class="table-row-head row-5">야전</div>
+					<div class="table-row-head row-6">보스 주간전</div>
+					<div class="table-row-head row-7">보스 야전</div>
+				</div>
+			</div>
+		</div>
+		<div class="group-bgm-list"></div>
+	</div>
 </div>
-<style type="text/css">
-	* { box-sizing: border-box }
-	#templates { display: none !important }
-	html { height: 100% }
-	body {
-		margin: 0;
-		padding: 0;
-		height: 100%;
-		background-color: #f4f4f4;
-		font-size: 14px;
-		overflow: hidden;
-	}
-
-	.main-container {
-		display: flex;
-		height:100%;
-		flex-direction: row;
-	}
-	aside.navigator {
-		display: grid;
-		width: 280px;
-		background-color: #fff;
-		box-shadow: 1px 0 5px rgba(0, 0, 0, 0.3);
-		max-height:100%;
-		grid-template-rows: 1fr auto;
-	}
-	.contents {
-		max-height:100%;
-		padding: 15px;
-		overflow-y: auto;
-		flex: 1;
-	}
-
-	aside.navigator .navigator_wrapper {
-		padding: 1em;
-		overflow-x: hidden;
-		overflow-y: auto;
-	}
-	aside.navigator .navigator_wrapper > h3 { margin: 0 0 10px }
-	aside.navigator #navigator_list {
-		padding: 0 0 0 0.6em;
-		line-height: 150%;
-		list-style: none;
-	}
-	aside.navigator #navigator_list > li a {
-		display: inline-block;
-		padding-left: 10px;
-		text-decoration: none;
-		color: #3460ce;
-	}
-	aside.navigator #navigator_list > li a:hover {
-		text-decoration: underline;
-		color: #333;
-	}
-	aside.navigator #navigator_list > li a::before {
-		content: "#";
-		margin-left: -10px;
-		padding-right: 4px;
-		font-weight: bold;
-	}
-	.player_wrapper {
-		padding: 1em;
-		max-width: 100%;
-		border-top: 1px solid #d0d0d0;
-	}
-	.player_wrapper audio { width: 100% }
-
-	.bgm-playing {
-		padding: 0.36em 0.5em;
-		background-color: #fff;
-		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-	}
-
-	.group-name { margin-top: 2em }
-	.group-name:first-of-type { margin-top: 0.65em }
-	.group-name::before {
-		content: "🎶";
-		margin-right: 0.7em;
-		color: #555;
-	}
-	.group-content {
-		display: grid;
-		margin-bottom: 15px;
-		grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-		grid-gap: 10px;
-	}
-
-	.bgm-item {
-		padding: 0.36em 0.5em;
-		background-color: #fff;
-		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-		cursor: pointer;
-	}
-	.bgm-no {
-		float: right;
-		font-weight: bold;
-		font-size: 0.76em;
-		opacity: 0.4;
-	}
-	.bgm-origin {
-		font-size: 0.76em;
-		opacity: 0.75;
-	}
-	.bgm-title { clear: both }
-
-	.bgm-desc {
-		margin-top: 3px;
-		padding-top: 3px;
-		border-top: 1px solid #d0d0d0;
-		line-height: 160%;
-		font-size: 0.88em;
-	}
-	.bgm-jukebox:not([data-jukebox]) { display: none }
-	.bgm-desc-list {
-		margin: 0.1em 0;
-		padding-left: 0;
-	}
-	.bgm-desc-list:empty { display: none }
-	.bgm-desc-list > li {
-		margin-left: 1.5em;
-		color: #444;
-	}
-	.bgm-desc-list[data-type="furniture"]::before {
-		content: "🚪 가구 BGM";
-		display: block;
-		margin-right: 4px;
-		color: #222;
-	}
-	.bgm-desc-list[data-type="map"]:before {
-		content: "🗺️ 해역 BGM";
-		display: block;
-		margin-right: 4px;
-		color: #222;
-	}
-	.bgm-desc-list[data-type="scene"]::before {
-		content: "🎬 특정 화면 BGM";
-		display: block;
-		margin-right: 4px;
-		color: #222;
-	}
-</style>
-<script type="text/javascript">
-"use strict";
-!function(){
-	const host = "203.104.209.183";
-	const key_table = [6657, 5699, 3371, 8909, 7719, 6229, 5449, 8561, 2987, 5501, 3127, 9319, 4365, 9811, 9927, 2423, 3439, 1865, 5925, 4409, 5509, 1517, 9695, 9255, 5325, 3691, 5519, 6949, 5607, 9539, 4133, 7795, 5465, 2659, 6381, 6875, 4019, 9195, 5645, 2887, 1213, 1815, 8671, 3015, 3147, 2991, 7977, 7045, 1619, 7909, 4451, 6573, 4545, 8251, 5983, 2849, 7249, 7449, 9477, 5963, 2711, 9019, 7375, 2201, 5631, 4893, 7653, 3719, 8819, 5839, 1853, 9843, 9119, 7023, 5681, 2345, 9873, 6349, 9315, 3795, 9737, 4633, 4173, 7549, 7171, 6147, 4723, 5039, 2723, 7815, 6201, 5999, 5339, 4431, 2911, 4435, 3611, 4423, 9517, 3243];
-
-	const player = document.querySelector(".bgm-player > audio");
-
-	const updatePlaying = function(elem){
-		var target = document.querySelector(".bgm-playing");
-
-		target.querySelector(".bgm-no").innerHTML = elem.querySelector(".bgm-no").innerHTML;
-		target.querySelector(".bgm-title").innerHTML = elem.querySelector(".bgm-title").innerHTML;
-		target.querySelector(".bgm-origin").innerHTML = elem.querySelector(".bgm-origin").innerHTML;
-	}
-	const playBGM = function(elem){
-		const getPostfixKey = function(type){
-			let k = 0;
-			if(type !== null && type !== ""){
-				for(let i=0; i<type.length; i++)
-					k += type.charCodeAt(i);
-			}
-			return k;
-		};
-
-		updatePlaying(elem);
-		const _id = elem.getAttribute("data-id");
-
-		let id = _id;
-		if( /[0-9]/.test(id[0]) )
-			id = parseInt(id);
-		else
-			id = parseInt(id.substr(1));
-
-		let type = "";
-		switch(_id[0]){
-			case 'b':
-				type = 'battle';
-				break;
-			default:
-				type = "port";
-				break;
-		}
-
-		const key_length = ("bgm_"+type).length;
-		const postfix_key = getPostfixKey("bgm_"+type);
-		const postfix = (17 * (id + 7) * key_table[(postfix_key + id * key_length) % 100] % 8973 + 1000)
-		const url = "http://" + host + "/kcs2/resources/bgm/" + type + "/"+ ("00"+id).substr(-3) + "_" + postfix + ".mp3";
-
-		player.src = url;
-		player.play();
-		return false;
-	};
-	const RequestJSON = function(url, callback){
-		const xhr = new XMLHttpRequest();
-		xhr.open("GET", url);
-		xhr.addEventListener("loadend", function(){
-			if(xhr.readyState==4)
-				callback(xhr.responseText, xhr);
-		});
-		xhr.overrideMimeType("application/json");
-		xhr.send();
-	};
-
-	window.currentLocale = "ko";
-	const Locales = {};
-	const getLocale = function(id, target){
-		const _default = id + "." + target;
-
-		if(currentLocale in Locales){
-			const locale = Locales[currentLocale];
-			const parts = target.split(".");
-
-			let current = locale[id];
-			if(typeof current=="undefined") return _default;
-
-			for(let i=0; i<parts.length; i++){
-				if( !(parts[i] in current) ) return _default;
-				current = current[parts[i]];
-			}
-
-			return current;
-		}else
-			return _default;
-	};
-
-	const updateLocale = function(){
-		const items = document.querySelectorAll(".bgm-item");
-		for(let i=0; i<items.length; i++){
-			const item = items[i];
-			if(item.parentNode.id === "templates") continue;
-
-			const id = parseInt(item.getAttribute("data-id"));
-
-			let tr = getLocale(id, "tr");
-			if(tr === id+".tr") tr = item.querySelector(".bgm-origin").innerHTML;
-
-			let hint = getLocale(id, "desc.hint");
-			if(hint === id+".desc.hint") hint = "";
-
-			item.querySelector(".bgm-title").innerHTML = tr;
-			if(item.querySelector(".bgm-desc-hint"))
-				item.querySelector(".bgm-desc-hint").innerHTML = hint;
-
-			if(getLocale(id, "desc.jukebox")===true)
-				item.querySelector(".bgm-jukebox").setAttribute("data-jukebox", "1");
-
-			const types = ["furniture", "map", "scene"];
-			for(let j=0; j<types.length; j++){
-				const type = types[j];
-				const list = getLocale(id, "desc." + type);
-
-				const listelem = item.querySelector('.bgm-desc-list[data-type="'+type+'"]');
-				if(!listelem) continue;
-				listelem.innerHTML = "";
-
-				if(Array.isArray(list)){
-					for(let k=0; k<list.length; k++){
-						const li = document.createElement("li");
-						li.setAttribute("data-type", type);
-						li.innerHTML = list[k];
-						listelem.appendChild(li);
-					}
-				}
-			}
-		}
-	};
-	RequestJSON("https://raw.githubusercontent.com/Tibo442/api_start2/master/parsed/api_mst_bgm.json", function(res){
-		const json = JSON.parse(res);
-		const port = document.querySelector('[data-group="port"]');
-		if(!port) return;
-
-		for(let i=0; i<json.length; i++){
-			const item = json[i];
-			const id = item.api_id;
-
-			const template = document.querySelector("#templates .bgm-wrapper").cloneNode(true);
-			const itemElem = template.querySelector(".bgm-item");
-			itemElem.setAttribute("data-id", id);
-			template.querySelector(".bgm-no").innerHTML = id;
-			template.querySelector(".bgm-origin").innerHTML = item.api_name;
-
-			itemElem.addEventListener("click", function(e){
-				e.preventDefault();
-				playBGM(this);
-				return false;
-			});
-
-			port.appendChild(template);
-		}
-		updateLocale();
-	});
-
-	{
-		const port = document.querySelector('[data-group="battle"]');
-		if(!port) return;
-
-		const item = {api_id:"b4",api_name:"二水戦の航跡"};
-		const id = item.api_id;
-
-		const template = document.querySelector("#templates .bgm-wrapper").cloneNode(true);
-		const itemElem = template.querySelector(".bgm-item");
-		itemElem.setAttribute("data-id", id);
-		template.querySelector(".bgm-no").innerHTML = id;
-		template.querySelector(".bgm-origin").innerHTML = item.api_name;
-
-		itemElem.addEventListener("click", function(e){
-			e.preventDefault();
-			playBGM(this);
-			return false;
-		});
-
-		port.appendChild(template);
-	}
-
-	const LoadLocale = function(locale, callback){
-		RequestJSON("./"+locale+".json", function(res){
-			Locales[locale] = JSON.parse(res);
-			if(callback) callback();
-		});
-	};
-	LoadLocale("ko", updateLocale);
-
-	!function(){
-		const anchors = document.querySelector(".contents").querySelectorAll("h1,h2,h3,h4,h5,h6");
-		const navigator = document.querySelector("#navigator_list");
-
-		for(let i=0; i<anchors.length; i++){
-			if(anchors[i].id !== "") continue;
-			anchors[i].id = "anc_"+i;
-
-			const li = document.createElement("li");
-			const anc = document.createElement("a");
-			anc.innerHTML = anchors[i].innerHTML;
-			anc.href = "#anc_"+i;
-			li.appendChild(anc);
-			navigator.appendChild(li);
-		}
-	}();
-
-	window.scrollTo(0, 0);
-}();
-</script>
+<script type="text/javascript" src="player.js"></script>
 </body>
 </html>
