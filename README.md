@@ -337,7 +337,7 @@
 4. [칸코레 제공계산기B (艦これ制空計算機B)](https://kancollecalculator.web.fc2.com/)
 
 ## 📚 그 외
-1. [칸코레 **BGM 플레이어**](http://swaytwig.com/bgm.html)
+1. [칸코레 **BGM 플레이어**](https://wolfgangkurz.github.io/KanColle-Gallery-Noti/bgm/player.html)
 2. [칸코레 **보이스 플레이어**](http://swaytwig.com/voice.html)
 3. [칸코레 계정 일본 옥션 거래 후기 및 팁](http://gall.dcinside.com/kancolle/4493595)
 4. [2차대전 침몰한 일본함 위치 구글맵](http://gall.dcinside.com/kancolle/6675470)
