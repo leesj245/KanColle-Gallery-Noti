@@ -276,7 +276,7 @@
 #### 2.0 신규 해역 관련 정보
 - [출격 해역명, 작전명, 작전내용](http://gall.dcinside.com/kancolle/7539631)
 - [신규 리뉴얼 및 신 해역 돌파 편성및 간증 모음](http://gall.dcinside.com/kancolle/7546189)
-- [스압) 주퀘, 월퀘, 분기 출격퀘 총 정리, 간증 포함](http://gall.dcinside.com/kancolle/7584995)
+- 주퀘, 월퀘, 분기 출격퀘 총 정리 [①](http://gall.dcinside.com/kancolle/7584995), [②](http://gall.dcinside.com/kancolle/7807203)
 - [공략) 칸코레 2기 일반해역 자원 파밍 정리](http://gall.dcinside.com/kancolle/7536085)
 - [핫산) 2해역을 이용한 임무 클리어 가이드!](http://gall.dcinside.com/kancolle/7552814)
 
