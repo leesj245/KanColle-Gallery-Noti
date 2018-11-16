@@ -274,7 +274,7 @@
 #### [![alert_1](http://203.104.209.183/kcs2/img/sally/alert/alert_1.png)<br># 출격 불가 메시지 번역/해결법 정리 문서](sortie_error.md)
 
 #### 2.0 신규 해역 관련 정보
-- [출격 해역명, 작전명, 작전내용](http://gall.dcinside.com/kancolle/7539631)
+- [출격 해역명, 작전명, 작전내용 번역](http://gall.dcinside.com/kancolle/7860038)
 - [신규 리뉴얼 및 신 해역 돌파 편성및 간증 모음](http://gall.dcinside.com/kancolle/7546189)
 - 주퀘, 월퀘, 분기 출격퀘 총 정리 [①](http://gall.dcinside.com/kancolle/7584995), [②](http://gall.dcinside.com/kancolle/7807203)
 - [공략) 칸코레 2기 일반해역 자원 파밍 정리](http://gall.dcinside.com/kancolle/7536085)
@@ -286,7 +286,6 @@
 - ※ 위 해역의 정보만 보시면 됩니다.
 ```
 - [칸코레 리뉴얼된 해역들 알고 있는 정보 + 간증](http://gall.dcinside.com/kancolle/7529355)
-- [출격 해역명, 작전명, 작전내용 정리+번역](http://gall.dcinside.com/kancolle/7539631)
 
 * **EO** : [**전체가이드**](http://gall.dcinside.com/kancolle/6474457)
 
