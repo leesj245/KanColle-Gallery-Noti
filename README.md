@@ -148,7 +148,8 @@
 - 경계진 관련
    - [경계진의 활용, 운용에 관해서 주의점 등](http://gall.dcinside.com/kancolle/7722186)
      - 2018 겨울 [①](http://gall.dcinside.com/kancolle/6983085), [②](http://gall.dcinside.com/kancolle/6960578), [③](http://gall.dcinside.com/kancolle/7028788)
-- [넬슨터치 발동률 검증](http://gall.dcinside.com/kancolle/7753050)
+- [넬슨터치 'Nelson Touch'의 개요](http://gall.dcinside.com/kancolle/7868822)
+  - [넬슨터치 발동률 검증](http://gall.dcinside.com/kancolle/7753050)
 
 1. 함선
    1. [뉴비 제독들을 위한 구축함 성능 리스트](http://gall.dcinside.com/kancolle/4187193)
