@@ -287,6 +287,7 @@
 - ※ 위 해역의 정보만 보시면 됩니다.
 ```
 - [칸코레 리뉴얼된 해역들 알고 있는 정보 + 간증](http://gall.dcinside.com/kancolle/7529355)
+- [스압) 2.0 주퀘, 월퀘, 분기 출격퀘 총 정리 v3](http://gall.dcinside.com/kancolle/7886329)
 
 * **EO** : [**전체가이드**](http://gall.dcinside.com/kancolle/6474457)
 
