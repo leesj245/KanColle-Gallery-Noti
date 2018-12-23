@@ -155,7 +155,7 @@
 1. 함선
    1. [뉴비 제독들을 위한 구축함 성능 리스트](http://gall.dcinside.com/kancolle/4187193)
    2. [2차 개장 칸무스 현황 리스트](http://gall.dcinside.com/kancolle/4296634)
-   3. [구축함 개2 특수장비/장비보정 조견표 (18.12.23)](http://gall.dcinside.com/kancolle/7977521)
+   3. [구축함 개2 특수장비/장비보정 조견표 (18.12.23)](http://gall.dcinside.com/kancolle/7977569)
    4. [**설계도 필요 함선** (18.09.09)](http://gall.dcinside.com/kancolle/7708802)
    5. [**설계도 입수 방법** (18.07.12)](http://gall.dcinside.com/kancolle/7412403)
    6. [**선제 대잠** 가능 레벨 리스트 (18.07.24)](http://gall.dcinside.com/kancolle/7446986)
