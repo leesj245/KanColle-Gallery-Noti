@@ -57,7 +57,8 @@
   - poi-statistics: [https://db.kcwiki.org/drop/](https://db.kcwiki.org/drop/)
 
 #### 진행 중 / 예정된 이벤트
-  * 꽁치잡이 미니이벤트
+  * [2018 겨울 (연말) 이벤트 「요격! 부인 방위 작전」](events/2018winter2.md)
+  
 
 #### 지난 이벤트
   * [2018 ~~늦여름~~ 초가을 이벤트 「발묘! 연합함대, 서쪽으로!」](events/2018fall.md)
