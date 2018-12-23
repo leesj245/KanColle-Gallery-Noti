@@ -154,14 +154,15 @@
 1. 함선
    1. [뉴비 제독들을 위한 구축함 성능 리스트](http://gall.dcinside.com/kancolle/4187193)
    2. [2차 개장 칸무스 현황 리스트](http://gall.dcinside.com/kancolle/4296634)
-   3. [**설계도 필요 함선** (18.09.09)](http://gall.dcinside.com/kancolle/7708802)
-   4. [**설계도 입수 방법** (18.07.12)](http://gall.dcinside.com/kancolle/7412403)
-   5. [**선제 대잠** 가능 레벨 리스트 (18.07.24)](http://gall.dcinside.com/kancolle/7446986)
-   6. [키라/피로도의 설명과 이에 따른 각종 효과](http://gall.dcinside.com/kancolle/6275509)
-   7. [급양함 마미야/이라코의 키라효과](http://gall.dcinside.com/kancolle/6277274)
-   8. [굉침 스토퍼와 4n, 4n-1](http://gall.dcinside.com/kancolle/6325653)
-   9. [해방함의 특성에 대해서](http://gall.dcinside.com/kancolle/6401459)
-   10. 운작
+   3. [구축함 개2 특수장비/장비보정 조견표 (18.12.23)](http://gall.dcinside.com/kancolle/7977521)
+   4. [**설계도 필요 함선** (18.09.09)](http://gall.dcinside.com/kancolle/7708802)
+   5. [**설계도 입수 방법** (18.07.12)](http://gall.dcinside.com/kancolle/7412403)
+   6. [**선제 대잠** 가능 레벨 리스트 (18.07.24)](http://gall.dcinside.com/kancolle/7446986)
+   7. [키라/피로도의 설명과 이에 따른 각종 효과](http://gall.dcinside.com/kancolle/6275509)
+   8. [급양함 마미야/이라코의 키라효과](http://gall.dcinside.com/kancolle/6277274)
+   9. [굉침 스토퍼와 4n, 4n-1](http://gall.dcinside.com/kancolle/6325653)
+   10. [해방함의 특성에 대해서](http://gall.dcinside.com/kancolle/6401459)
+   11. 운작
        - [마루유 갯수별 운 상승치 기대값 계산](http://gall.dcinside.com/kancolle/4573887)
        - [운작 우선순위, 추천 칸무스](http://gall.dcinside.com/kancolle/5444115)
        - [운작에 의한 명중률, 회피율의 상승](http://gall.dcinside.com/kancolle/7021864)
