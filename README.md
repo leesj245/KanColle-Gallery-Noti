@@ -57,7 +57,7 @@
   - poi-statistics: [https://db.kcwiki.org/drop/](https://db.kcwiki.org/drop/)
 
 #### 진행 중 / 예정된 이벤트
-  * [2018 겨울 (연말) 이벤트 「요격! 부인 방위 작전」](events/2018winter2.md)
+  * [2019 겨울 이벤트 「요격! 부인 방위 작전」](events/2019winter.md)
   
 
 #### 지난 이벤트
