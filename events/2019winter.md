@@ -37,6 +37,7 @@
 | --- | ------------- | ---- |
 
 ## 전 해역 (E-1 ~ E-3) 종합 정보
+- 2019 겨울 이벤트 모티프에 대한 예상과 대비 [①](http://gall.dcinside.com/kancolle/7983686) [②](http://gall.dcinside.com/kancolle/7983692)
 
 ## E-1 공략/정보 모음
 - TBA
