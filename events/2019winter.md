@@ -73,6 +73,7 @@
   * 조건은 틀리나 편성을 위해 기재
 - [E-2 시작점 기믹 내가 한것](http://gall.dcinside.com/kancolle/7993395)
 - [E-2갑 1게 클리어+오픈 기믹 약식 공략](http://gall.dcinside.com/kancolle/7993271)
+- [e1 갑클 편성](http://gall.dcinside.com/kancolle/7993691)
 - TBA
 
 ## E-3 공략/정보 모음
