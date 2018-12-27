@@ -2,7 +2,7 @@
 ![KanColle Gallery Noti](Assets/logo.jpg)
 
 ## [2019 겨울 이벤트 「요격! 부인 방위 작전」](events/2019winter.md)
-[![Winter 2019 Event Banner](Assets/events/20181226/banner.jpg)<br># 이벤트 정보 페이지로 이동](event.md)
+[![Winter 2019 Event Banner](Assets/events/20181226/banner.jpg)<br># 이벤트 정보 페이지로 이동](events/2019winter.md)
 
 ## 📃 목차
 - [📦 업데이트 정리](#-업데이트-정리)
