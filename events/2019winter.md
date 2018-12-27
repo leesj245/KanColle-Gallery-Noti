@@ -76,6 +76,7 @@
 - TBA
 
 ## E-3 공략/정보 모음
+- [ㅌ3갑 zz등장기믹](http://gall.dcinside.com/kancolle/7993672)
 - TBA
 
 ---------------------
