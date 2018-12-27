@@ -43,6 +43,7 @@
 
 ## 전 해역 (E-1 ~ E-3) 종합 정보
 - 2019 겨울 이벤트 모티프에 대한 예상과 대비 [①](http://gall.dcinside.com/kancolle/7983686) [②](http://gall.dcinside.com/kancolle/7983692)
+- [\[공략\] 일본발 딱지 & 공략 정리](http://gall.dcinside.com/kancolle/7994646)
 - [E-1-E-3 드랍테이블](http://gall.dcinside.com/kancolle/7992873)
 
 ## E-1 공략/정보 모음
@@ -74,6 +75,7 @@
 - [E-2 시작점 기믹 내가 한것](http://gall.dcinside.com/kancolle/7993395)
 - [E-2갑 1게 클리어+오픈 기믹 약식 공략](http://gall.dcinside.com/kancolle/7993271)
 - [e1 갑클 편성](http://gall.dcinside.com/kancolle/7993691)
+- [E-2갑 본게 클리어/약식 공략](http://gall.dcinside.com/kancolle/7994475)
 - TBA
 
 ## E-3 공략/정보 모음
