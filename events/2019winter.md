@@ -36,6 +36,10 @@
 
 | 딱지 | 출격 가능 해역 | 비고 |
 | --- | ------------- | ---- |
+| ![E-1](../Assets/events/20181226/e1.png)<br>쥐수송부대 | E-1 | |
+| ![E-2 A](../Assets/events/20181226/e2-1.png)<br>라바울부대 | E-2 | 일반함대 |
+| ![E-2 B](../Assets/events/20181226/e2-2.png)<br>연합함대 | E-2 | 연합함대 |
+| ![E-3](../Assets/events/20181226/e3.png)<br>부인파견대 | E-3 | |
 
 ## 전 해역 (E-1 ~ E-3) 종합 정보
 - 2019 겨울 이벤트 모티프에 대한 예상과 대비 [①](http://gall.dcinside.com/kancolle/7983686) [②](http://gall.dcinside.com/kancolle/7983692)
