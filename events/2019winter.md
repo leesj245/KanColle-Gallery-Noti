@@ -67,6 +67,8 @@
 - TBA
 
 ## E-2 공략/정보 모음
+- [기믹해제편성인데 혹시필요하시면 쓰세여](http://gall.dcinside.com/kancolle/7991219)
+- [도움은크게안되겠지만 E2 2게이지편성올림](http://gall.dcinside.com/kancolle/7992129)
 - TBA
 
 ## E-3 공략/정보 모음
