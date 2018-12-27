@@ -71,6 +71,7 @@
 - [ㅌ2갑 시작점기믹 조건 좀 널럴한듯?](http://gall.dcinside.com/kancolle/7991444)
   * [도움은크게안되겠지만 E2 2게이지편성올림](http://gall.dcinside.com/kancolle/7992129)
   * 조건은 틀리나 편성을 위해 기재
+- [E-2 시작점 기믹 내가 한것](http://gall.dcinside.com/kancolle/7993395)
 - [E-2갑 1게 클리어+오픈 기믹 약식 공략](http://gall.dcinside.com/kancolle/7993271)
 - TBA
 
