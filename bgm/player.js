@@ -337,7 +337,9 @@
 
 		// mst_mapbgm
 		!function(){
-			const mst_mapdata = jsonDatas.mst_mapbgm.concat(jsonDatas.events);
+			const mst_mapdata = jsonDatas.mst_mapbgm
+				.filter(function(x){ return x.api_maparea_id < 20 })
+				.concat(jsonDatas.events);
 			bgm_usage.splice(0, bgm_usage.length);
 
 			// orderby, groupby

@@ -809,5 +809,30 @@
 		"api_maparea_id": 42,
 		"api_moving_bgm": 122,
 		"api_no": 5
+	},
+
+	{
+		"note": "2019 winter: [43] Assault! Buin Defense Operation",
+
+		"api_boss_bgm": [128, 128],
+		"api_id": 431,
+		"api_map_bgm": [127, 127],
+		"api_maparea_id": 43,
+		"api_moving_bgm": 126,
+		"api_no": 1
+	}, {
+		"api_boss_bgm": [128, 128],
+		"api_id": 432,
+		"api_map_bgm": [127, 127],
+		"api_maparea_id": 43,
+		"api_moving_bgm": 126,
+		"api_no": 2
+	}, {
+		"api_boss_bgm": [131, 131],
+		"api_id": 433,
+		"api_map_bgm": [130, 130],
+		"api_maparea_id": 43,
+		"api_moving_bgm": 129,
+		"api_no": 3
 	}
 ]
