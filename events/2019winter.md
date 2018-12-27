@@ -43,8 +43,27 @@
 
 ## 전 해역 (E-1 ~ E-3) 종합 정보
 - 2019 겨울 이벤트 모티프에 대한 예상과 대비 [①](http://gall.dcinside.com/kancolle/7983686) [②](http://gall.dcinside.com/kancolle/7983692)
+- [E-1-E-3 드랍테이블](http://gall.dcinside.com/kancolle/7992873)
 
 ## E-1 공략/정보 모음
+### [보정함 목록](http://gall.dcinside.com/kancolle/7991164)
+* E-1-L (본게이지 보스) 보너스
+  - 무라사메改2 : 1.51 ~ 1.51 (148x)
+  - 카스미改2乙 : 1.31 ~ 1.33 (12x)
+  - 유라改2 : 1.24 ~ 1.29 (26x)
+  - 미치시오改2 : 1.31 ~ 1.34 (44x)
+  - 아라시오改2 : 1.3 ~ 1.32 (29x)
+  - 카스미改2 : 1.3 ~ 1.35 (10x)
+  - 유다치改2 : 1.32 ~ 1.33 (13x)
+  - 시구레改2 : 1.29 ~ 1.34 (8x)
+  - 오오시오改2 : 1.28 ~ 1.33 (13x)
+  - 무라사메改 : 1.49 ~ 1.56 (24x)
+  
+- [(제카마시넷 아칸코레 공략) E1 수송 전력 게이지 공략](http://gall.dcinside.com/kancolle/7990888)
+- [알기쉬운 E-1 공략(수송/본게)](http://gall.dcinside.com/kancolle/7992186)
+- [요격! 부인 방어 작전 E1 클리어 가이드](http://gall.dcinside.com/kancolle/7992030)
+- [E-1갑 클리어/약식 공략](http://gall.dcinside.com/kancolle/7991677)
+- [E1갑 간단 공략 써봤어얌... txt](http://gall.dcinside.com/kancolle/7991656)
 - TBA
 
 ## E-2 공략/정보 모음
