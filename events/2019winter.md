@@ -43,6 +43,7 @@
 
 ## 전 해역 (E-1 ~ E-3) 종합 정보
 - 2019 겨울 이벤트 모티프에 대한 예상과 대비 [①](http://gall.dcinside.com/kancolle/7983686) [②](http://gall.dcinside.com/kancolle/7983692)
+- [이번 이벤 오요도 임무 전 브리핑 보고가라](http://gall.dcinside.com/kancolle/7995514)
 - [\[공략\] 일본발 딱지 & 공략 정리](http://gall.dcinside.com/kancolle/7994646)
 - [E-1-E-3 드랍테이블](http://gall.dcinside.com/kancolle/7992873)
 
@@ -76,6 +77,8 @@
 - [E-2갑 1게 클리어+오픈 기믹 약식 공략](http://gall.dcinside.com/kancolle/7993271)
 - [e1 갑클 편성](http://gall.dcinside.com/kancolle/7993691)
 - [E-2갑 본게 클리어/약식 공략](http://gall.dcinside.com/kancolle/7994475)
+- [\[영상O\] E-2 갑 공략 (6수전, 저속O)](http://gall.dcinside.com/kancolle/7995328)
+- [수전딸리는 흑우들을 위한 E-2갑 기믹 수상함 다메콘 반자이](http://gall.dcinside.com/kancolle/7996319)
 - TBA
 
 ## E-3 공략/정보 모음
