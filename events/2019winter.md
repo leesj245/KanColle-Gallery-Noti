@@ -131,6 +131,7 @@
 - [E-1갑 클리어/약식 공략](http://gall.dcinside.com/kancolle/7991677)
 - [E1갑 간단 공략 써봤어얌... txt](http://gall.dcinside.com/kancolle/7991656)
 - TBA
+- [\[전단\] E1~E2 공략](http://gall.dcinside.com/kancolle/7999837)
 
 ## E-2 공략/정보 모음
 - [기믹해제편성인데 혹시필요하시면 쓰세여](http://gall.dcinside.com/kancolle/7991219)
@@ -146,6 +147,7 @@
 - [그런의미에서 올리는 ㅌ-2 공략 (병산당 전용)](http://gall.dcinside.com/kancolle/7997122)
 - [요격! 부인 방어 작전 E2 클리어 가이드 (수정)](http://gall.dcinside.com/kancolle/7997659)
 - TBA
+- [\[전단\] E1~E2 공략](http://gall.dcinside.com/kancolle/7999837)
 
 ## E-3 공략/정보 모음
 - [ㅋㅋㅋㅋ ㅌ3 zz기믹 간결해진거 보소 ㅋㅋ](http://gall.dcinside.com/kancolle/7993777)
