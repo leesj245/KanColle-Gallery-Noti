@@ -80,7 +80,6 @@
 - [\[영상O\] E-2 갑 공략 (6수전, 저속O)](http://gall.dcinside.com/kancolle/7995328)
 - [수전딸리는 흑우들을 위한 E-2갑 기믹 수상함 다메콘 반자이](http://gall.dcinside.com/kancolle/7996319)
 - [그런의미에서 올리는 ㅌ-2 공략 (병산당 전용)](http://gall.dcinside.com/kancolle/7997122)
-- [E-2 갑클 편성 참고하셈](http://gall.dcinside.com/kancolle/7997312)
 - TBA
 
 ## E-3 공략/정보 모음
