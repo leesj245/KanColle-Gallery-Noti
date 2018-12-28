@@ -83,6 +83,7 @@
 
 ## E-3 공략/정보 모음
 - [ㅋㅋㅋㅋ ㅌ3 zz기믹 간결해진거 보소 ㅋㅋ](http://gall.dcinside.com/kancolle/7993777)
+- [E-3갑 ZZ 열면서 했던거 정리해봤음](http://gall.dcinside.com/kancolle/7995010)
 - TBA
 
 ---------------------
