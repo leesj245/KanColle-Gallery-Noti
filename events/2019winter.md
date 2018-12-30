@@ -153,6 +153,10 @@
 - [ㅋㅋㅋㅋ ㅌ3 zz기믹 간결해진거 보소 ㅋㅋ](http://gall.dcinside.com/kancolle/7993777)
 - [E-3갑 ZZ 열면서 했던거 정리해봤음](http://gall.dcinside.com/kancolle/7995010)
 - [\[영상O\] E-3 갑 공략](http://gall.dcinside.com/kancolle/7997489)
+- [ㅌ-3 수송부터 본게까지의 공략 (병산당 전용교재)](http://gall.dcinside.com/kancolle/8002110)
+- [ㅌ3갑 ZZ가는편성 공유함](http://gall.dcinside.com/kancolle/8003148)
+- [ㅌ3갑 존스턴 A승 파밍 + 닛신을 키워보자](http://gall.dcinside.com/kancolle/8003406)
+- [중국에서 ZZ고정조건 찾음](http://gall.dcinside.com/kancolle/8004486)
 - TBA
 
 ---------------------
