@@ -157,6 +157,7 @@
 - [ㅌ3갑 ZZ가는편성 공유함](http://gall.dcinside.com/kancolle/8003148)
 - [ㅌ3갑 존스턴 A승 파밍 + 닛신을 키워보자](http://gall.dcinside.com/kancolle/8003406)
 - [중국에서 ZZ고정조건 찾음](http://gall.dcinside.com/kancolle/8004486)
+- [요격! 부인 방어 작전 E3 클리어 가이드](http://gall.dcinside.com/kancolle/8006840)
 - TBA
 
 ---------------------
